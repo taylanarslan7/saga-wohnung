@@ -1,0 +1,1893 @@
+Date,Time,Operation,Status,Detail
+2025-04-25,21:56:32,System,Started,Version 2.2 - Check interval: 10 minutes
+2025-04-25,21:56:32,Check,Started,Connecting to website
+2025-04-25,21:56:33,Connection,Success,HTTP 200
+2025-04-25,21:56:33,Data,Success,Apartment count: 6
+2025-04-25,21:56:42,System,Stopped,By user
+2025-04-25,21:56:47,System,Started,Version 2.2 - Check interval: 10 minutes
+2025-04-25,21:56:47,Check,Started,Connecting to website
+2025-04-25,21:56:48,Connection,Success,HTTP 200
+2025-04-25,21:56:48,Data,Success,Apartment count: 6
+2025-04-25,22:06:49,Check,Started,Connecting to website
+2025-04-25,22:06:50,Connection,Success,HTTP 200
+2025-04-25,22:06:50,Data,Success,Apartment count: 6
+2025-04-25,22:16:50,Check,Started,Connecting to website
+2025-04-25,22:16:51,Connection,Success,HTTP 200
+2025-04-25,22:16:51,Data,Success,Apartment count: 6
+2025-04-25,22:26:51,Check,Started,Connecting to website
+2025-04-25,22:26:52,Connection,Success,HTTP 200
+2025-04-25,22:26:52,Data,Success,Apartment count: 6
+2025-04-25,22:36:52,Check,Started,Connecting to website
+2025-04-25,22:36:53,Connection,Success,HTTP 200
+2025-04-25,22:36:53,Data,Success,Apartment count: 6
+2025-04-25,22:46:54,Check,Started,Connecting to website
+2025-04-25,22:46:54,Connection,Success,HTTP 200
+2025-04-25,22:46:54,Data,Success,Apartment count: 6
+2025-04-25,22:56:55,Check,Started,Connecting to website
+2025-04-25,22:56:55,Connection,Success,HTTP 200
+2025-04-25,22:56:55,Data,Success,Apartment count: 6
+2025-04-25,23:06:56,Check,Started,Connecting to website
+2025-04-25,23:06:56,Connection,Success,HTTP 200
+2025-04-25,23:06:56,Data,Success,Apartment count: 6
+2025-04-25,23:16:57,Check,Started,Connecting to website
+2025-04-25,23:16:57,Connection,Success,HTTP 200
+2025-04-25,23:16:57,Data,Success,Apartment count: 6
+2025-04-25,23:26:58,Check,Started,Connecting to website
+2025-04-25,23:26:58,Connection,Success,HTTP 200
+2025-04-25,23:26:58,Data,Success,Apartment count: 6
+2025-04-25,23:36:59,Check,Started,Connecting to website
+2025-04-25,23:36:59,Connection,Success,HTTP 200
+2025-04-25,23:36:59,Data,Success,Apartment count: 6
+2025-04-25,23:47:00,Check,Started,Connecting to website
+2025-04-25,23:47:00,Connection,Success,HTTP 200
+2025-04-25,23:47:00,Data,Success,Apartment count: 6
+2025-04-25,23:57:00,Check,Started,Connecting to website
+2025-04-25,23:57:01,Connection,Success,HTTP 200
+2025-04-25,23:57:01,Data,Success,Apartment count: 6
+2025-04-26,00:07:01,Check,Started,Connecting to website
+2025-04-26,00:07:02,Connection,Success,HTTP 200
+2025-04-26,00:07:02,Data,Success,Apartment count: 6
+2025-04-26,00:17:02,Check,Started,Connecting to website
+2025-04-26,00:17:03,Connection,Success,HTTP 200
+2025-04-26,00:17:03,Data,Success,Apartment count: 6
+2025-04-26,00:27:04,Check,Started,Connecting to website
+2025-04-26,00:27:04,Connection,Success,HTTP 200
+2025-04-26,00:27:04,Data,Success,Apartment count: 6
+2025-04-26,00:37:05,Check,Started,Connecting to website
+2025-04-26,00:37:05,Connection,Success,HTTP 200
+2025-04-26,00:37:05,Data,Success,Apartment count: 6
+2025-04-26,00:47:05,Check,Started,Connecting to website
+2025-04-26,00:47:06,Connection,Success,HTTP 200
+2025-04-26,00:47:06,Data,Success,Apartment count: 6
+2025-04-26,00:57:06,Check,Started,Connecting to website
+2025-04-26,00:57:07,Connection,Success,HTTP 200
+2025-04-26,00:57:07,Data,Success,Apartment count: 6
+2025-04-26,01:07:07,Check,Started,Connecting to website
+2025-04-26,01:07:08,Connection,Success,HTTP 200
+2025-04-26,01:07:08,Data,Success,Apartment count: 6
+2025-04-26,01:17:08,Check,Started,Connecting to website
+2025-04-26,01:17:09,Connection,Success,HTTP 200
+2025-04-26,01:17:09,Data,Success,Apartment count: 6
+2025-04-26,01:27:09,Check,Started,Connecting to website
+2025-04-26,01:27:10,Connection,Success,HTTP 200
+2025-04-26,01:27:10,Data,Success,Apartment count: 6
+2025-04-26,01:37:10,Check,Started,Connecting to website
+2025-04-26,01:37:11,Connection,Success,HTTP 200
+2025-04-26,01:37:11,Data,Success,Apartment count: 6
+2025-04-26,01:47:11,Check,Started,Connecting to website
+2025-04-26,01:47:12,Connection,Success,HTTP 200
+2025-04-26,01:47:12,Data,Success,Apartment count: 6
+2025-04-26,01:57:12,Check,Started,Connecting to website
+2025-04-26,01:57:13,Connection,Success,HTTP 200
+2025-04-26,01:57:13,Data,Success,Apartment count: 6
+2025-04-26,02:07:13,Check,Started,Connecting to website
+2025-04-26,02:07:14,Connection,Success,HTTP 200
+2025-04-26,02:07:14,Data,Success,Apartment count: 6
+2025-04-26,02:17:14,Check,Started,Connecting to website
+2025-04-26,02:17:15,Connection,Success,HTTP 200
+2025-04-26,02:17:15,Data,Success,Apartment count: 6
+2025-04-26,02:27:16,Check,Started,Connecting to website
+2025-04-26,02:27:16,Connection,Success,HTTP 200
+2025-04-26,02:27:16,Data,Success,Apartment count: 6
+2025-04-26,02:37:17,Check,Started,Connecting to website
+2025-04-26,02:37:17,Connection,Success,HTTP 200
+2025-04-26,02:37:17,Data,Success,Apartment count: 6
+2025-04-26,02:47:18,Check,Started,Connecting to website
+2025-04-26,02:47:18,Connection,Success,HTTP 200
+2025-04-26,02:47:18,Data,Success,Apartment count: 6
+2025-04-26,02:57:19,Check,Started,Connecting to website
+2025-04-26,02:57:19,Connection,Success,HTTP 200
+2025-04-26,02:57:19,Data,Success,Apartment count: 6
+2025-04-26,03:07:19,Check,Started,Connecting to website
+2025-04-26,03:07:20,Connection,Success,HTTP 200
+2025-04-26,03:07:20,Data,Success,Apartment count: 6
+2025-04-26,03:17:20,Check,Started,Connecting to website
+2025-04-26,03:17:21,Connection,Success,HTTP 200
+2025-04-26,03:17:21,Data,Success,Apartment count: 6
+2025-04-26,03:27:21,Check,Started,Connecting to website
+2025-04-26,03:27:22,Connection,Success,HTTP 200
+2025-04-26,03:27:22,Data,Success,Apartment count: 6
+2025-04-26,03:37:22,Check,Started,Connecting to website
+2025-04-26,03:37:23,Connection,Success,HTTP 200
+2025-04-26,03:37:23,Data,Success,Apartment count: 6
+2025-04-26,03:47:23,Check,Started,Connecting to website
+2025-04-26,03:47:24,Connection,Success,HTTP 200
+2025-04-26,03:47:24,Data,Success,Apartment count: 6
+2025-04-26,03:57:24,Check,Started,Connecting to website
+2025-04-26,03:57:25,Connection,Success,HTTP 200
+2025-04-26,03:57:25,Data,Success,Apartment count: 6
+2025-04-26,04:07:25,Check,Started,Connecting to website
+2025-04-26,04:07:26,Connection,Success,HTTP 200
+2025-04-26,04:07:26,Data,Success,Apartment count: 6
+2025-04-26,04:17:26,Check,Started,Connecting to website
+2025-04-26,04:17:27,Connection,Success,HTTP 200
+2025-04-26,04:17:27,Data,Success,Apartment count: 6
+2025-04-26,04:27:27,Check,Started,Connecting to website
+2025-04-26,04:27:28,Connection,Success,HTTP 200
+2025-04-26,04:27:28,Data,Success,Apartment count: 6
+2025-04-26,04:37:28,Check,Started,Connecting to website
+2025-04-26,04:37:29,Connection,Success,HTTP 200
+2025-04-26,04:37:29,Data,Success,Apartment count: 6
+2025-04-26,04:47:29,Check,Started,Connecting to website
+2025-04-26,04:47:30,Connection,Success,HTTP 200
+2025-04-26,04:47:30,Data,Success,Apartment count: 6
+2025-04-26,04:57:30,Check,Started,Connecting to website
+2025-04-26,04:57:31,Connection,Success,HTTP 200
+2025-04-26,04:57:31,Data,Success,Apartment count: 6
+2025-04-26,05:07:31,Check,Started,Connecting to website
+2025-04-26,05:07:32,Connection,Success,HTTP 200
+2025-04-26,05:07:32,Data,Success,Apartment count: 6
+2025-04-26,05:17:32,Check,Started,Connecting to website
+2025-04-26,05:17:32,Connection,Success,HTTP 200
+2025-04-26,05:17:32,Data,Success,Apartment count: 6
+2025-04-26,05:27:33,Check,Started,Connecting to website
+2025-04-26,05:27:33,Connection,Success,HTTP 200
+2025-04-26,05:27:33,Data,Success,Apartment count: 6
+2025-04-26,05:37:34,Check,Started,Connecting to website
+2025-04-26,05:37:34,Connection,Success,HTTP 200
+2025-04-26,05:37:34,Data,Success,Apartment count: 6
+2025-04-26,05:47:35,Check,Started,Connecting to website
+2025-04-26,05:47:35,Connection,Success,HTTP 200
+2025-04-26,05:47:35,Data,Success,Apartment count: 6
+2025-04-26,05:57:36,Check,Started,Connecting to website
+2025-04-26,05:57:36,Connection,Success,HTTP 200
+2025-04-26,05:57:36,Data,Success,Apartment count: 6
+2025-04-26,06:07:37,Check,Started,Connecting to website
+2025-04-26,06:07:37,Connection,Success,HTTP 200
+2025-04-26,06:07:37,Data,Success,Apartment count: 6
+2025-04-26,06:17:38,Check,Started,Connecting to website
+2025-04-26,06:17:38,Connection,Success,HTTP 200
+2025-04-26,06:17:38,Data,Success,Apartment count: 6
+2025-04-26,06:27:38,Check,Started,Connecting to website
+2025-04-26,06:27:46,System,Error,"HTTPSConnectionPool(host='www.saga.hamburg', port=443): Max retries exceeded with url: /immobiliensuche?Kategorie=APARTMENT (Caused by ResponseError('too many 500 error responses'))"
+2025-04-26,06:37:46,Check,Started,Connecting to website
+2025-04-26,06:37:47,Connection,Success,HTTP 200
+2025-04-26,06:37:47,Data,Success,Apartment count: 6
+2025-04-26,06:47:47,Check,Started,Connecting to website
+2025-04-26,06:47:48,Connection,Success,HTTP 200
+2025-04-26,06:47:48,Data,Success,Apartment count: 6
+2025-04-26,06:57:48,Check,Started,Connecting to website
+2025-04-26,06:57:49,Connection,Success,HTTP 200
+2025-04-26,06:57:49,Data,Success,Apartment count: 6
+2025-04-26,07:07:49,Check,Started,Connecting to website
+2025-04-26,07:07:50,Connection,Success,HTTP 200
+2025-04-26,07:07:50,Data,Success,Apartment count: 6
+2025-04-26,07:17:50,Check,Started,Connecting to website
+2025-04-26,07:17:51,Connection,Success,HTTP 200
+2025-04-26,07:17:51,Data,Success,Apartment count: 6
+2025-04-26,07:27:51,Check,Started,Connecting to website
+2025-04-26,07:27:52,Connection,Success,HTTP 200
+2025-04-26,07:27:52,Data,Success,Apartment count: 6
+2025-04-26,07:37:52,Check,Started,Connecting to website
+2025-04-26,07:37:53,Connection,Success,HTTP 200
+2025-04-26,07:37:53,Data,Success,Apartment count: 6
+2025-04-26,07:47:53,Check,Started,Connecting to website
+2025-04-26,07:47:54,Connection,Success,HTTP 200
+2025-04-26,07:47:54,Data,Success,Apartment count: 6
+2025-04-26,07:57:54,Check,Started,Connecting to website
+2025-04-26,07:57:55,Connection,Success,HTTP 200
+2025-04-26,07:57:55,Data,Success,Apartment count: 6
+2025-04-26,08:07:55,Check,Started,Connecting to website
+2025-04-26,08:07:56,Connection,Success,HTTP 200
+2025-04-26,08:07:56,Data,Success,Apartment count: 6
+2025-04-26,08:17:56,Check,Started,Connecting to website
+2025-04-26,08:17:57,Connection,Success,HTTP 200
+2025-04-26,08:17:57,Data,Success,Apartment count: 6
+2025-04-26,08:27:57,Check,Started,Connecting to website
+2025-04-26,08:27:57,Connection,Success,HTTP 200
+2025-04-26,08:27:58,Data,Success,Apartment count: 6
+2025-04-26,08:37:58,Check,Started,Connecting to website
+2025-04-26,08:37:58,Connection,Success,HTTP 200
+2025-04-26,08:37:58,Data,Success,Apartment count: 6
+2025-04-26,08:47:59,Check,Started,Connecting to website
+2025-04-26,08:47:59,Connection,Success,HTTP 200
+2025-04-26,08:47:59,Data,Success,Apartment count: 6
+2025-04-27,21:30:45,System,Started,Version 2.2 - Check interval: 10 minutes
+2025-04-27,21:30:45,Check,Started,Connecting to website
+2025-04-27,21:30:45,Connection,Success,HTTP 200
+2025-04-27,21:30:45,Data,Success,Apartment count: 6
+2025-04-27,21:40:47,Check,Started,Connecting to website
+2025-04-27,21:40:48,Connection,Success,HTTP 200
+2025-04-27,21:40:48,Data,Success,Apartment count: 6
+2025-04-27,21:50:48,Check,Started,Connecting to website
+2025-04-27,21:50:49,Connection,Success,HTTP 200
+2025-04-27,21:50:49,Data,Success,Apartment count: 6
+2025-04-27,22:00:49,Check,Started,Connecting to website
+2025-04-27,22:00:50,Connection,Success,HTTP 200
+2025-04-27,22:00:50,Data,Success,Apartment count: 6
+2025-04-27,22:10:51,Check,Started,Connecting to website
+2025-04-27,22:10:52,Connection,Success,HTTP 200
+2025-04-27,22:10:52,Data,Success,Apartment count: 6
+2025-04-27,22:20:53,Check,Started,Connecting to website
+2025-04-27,22:20:53,Connection,Success,HTTP 200
+2025-04-27,22:20:53,Data,Success,Apartment count: 6
+2025-04-27,22:30:54,Check,Started,Connecting to website
+2025-04-27,22:30:55,Connection,Success,HTTP 200
+2025-04-27,22:30:55,Data,Success,Apartment count: 6
+2025-04-27,22:40:55,Check,Started,Connecting to website
+2025-04-27,22:40:56,Connection,Success,HTTP 200
+2025-04-27,22:40:56,Data,Success,Apartment count: 6
+2025-04-27,22:50:57,Check,Started,Connecting to website
+2025-04-27,22:50:58,Connection,Success,HTTP 200
+2025-04-27,22:50:58,Data,Success,Apartment count: 6
+2025-04-27,23:00:58,Check,Started,Connecting to website
+2025-04-27,23:00:59,Connection,Success,HTTP 200
+2025-04-27,23:00:59,Data,Success,Apartment count: 6
+2025-04-27,23:11:00,Check,Started,Connecting to website
+2025-04-27,23:11:00,Connection,Success,HTTP 200
+2025-04-27,23:11:01,Data,Success,Apartment count: 6
+2025-04-27,23:21:01,Check,Started,Connecting to website
+2025-04-27,23:21:02,Connection,Success,HTTP 200
+2025-04-27,23:21:02,Data,Success,Apartment count: 6
+2025-04-27,23:31:02,Check,Started,Connecting to website
+2025-04-27,23:31:03,Connection,Success,HTTP 200
+2025-04-27,23:31:03,Data,Success,Apartment count: 6
+2025-04-27,23:41:04,Check,Started,Connecting to website
+2025-04-27,23:41:05,Connection,Success,HTTP 200
+2025-04-27,23:41:05,Data,Success,Apartment count: 6
+2025-04-27,23:51:05,Check,Started,Connecting to website
+2025-04-27,23:51:06,Connection,Success,HTTP 200
+2025-04-27,23:51:06,Data,Success,Apartment count: 6
+2025-04-28,00:01:07,Check,Started,Connecting to website
+2025-04-28,00:01:16,Connection,Success,HTTP 200
+2025-04-28,00:01:16,Data,Success,Apartment count: 6
+2025-04-28,00:11:16,Check,Started,Connecting to website
+2025-04-28,00:11:17,Connection,Success,HTTP 200
+2025-04-28,00:11:17,Data,Success,Apartment count: 6
+2025-04-28,00:21:18,Check,Started,Connecting to website
+2025-04-28,00:21:19,Connection,Success,HTTP 200
+2025-04-28,00:21:19,Data,Success,Apartment count: 6
+2025-04-28,00:31:19,Check,Started,Connecting to website
+2025-04-28,00:31:20,Connection,Success,HTTP 200
+2025-04-28,00:31:20,Data,Success,Apartment count: 6
+2025-04-28,00:41:20,Check,Started,Connecting to website
+2025-04-28,00:41:21,Connection,Success,HTTP 200
+2025-04-28,00:41:21,Data,Success,Apartment count: 6
+2025-04-28,00:51:21,Check,Started,Connecting to website
+2025-04-28,00:51:22,Connection,Success,HTTP 200
+2025-04-28,00:51:22,Data,Success,Apartment count: 6
+2025-04-28,01:01:22,Check,Started,Connecting to website
+2025-04-28,01:01:23,Connection,Success,HTTP 200
+2025-04-28,01:01:23,Data,Success,Apartment count: 6
+2025-04-28,01:11:23,Check,Started,Connecting to website
+2025-04-28,01:11:24,Connection,Success,HTTP 200
+2025-04-28,01:11:24,Data,Success,Apartment count: 6
+2025-04-28,01:21:24,Check,Started,Connecting to website
+2025-04-28,01:21:25,Connection,Success,HTTP 200
+2025-04-28,01:21:25,Data,Success,Apartment count: 6
+2025-04-28,01:31:25,Check,Started,Connecting to website
+2025-04-28,01:31:26,Connection,Success,HTTP 200
+2025-04-28,01:31:26,Data,Success,Apartment count: 6
+2025-04-28,01:41:26,Check,Started,Connecting to website
+2025-04-28,01:41:27,Connection,Success,HTTP 200
+2025-04-28,01:41:27,Data,Success,Apartment count: 6
+2025-04-28,01:51:27,Check,Started,Connecting to website
+2025-04-28,01:51:28,Connection,Success,HTTP 200
+2025-04-28,01:51:28,Data,Success,Apartment count: 6
+2025-04-28,02:01:28,Check,Started,Connecting to website
+2025-04-28,02:01:29,Connection,Success,HTTP 200
+2025-04-28,02:01:29,Data,Success,Apartment count: 6
+2025-04-28,02:11:29,Check,Started,Connecting to website
+2025-04-28,02:11:30,Connection,Success,HTTP 200
+2025-04-28,02:11:30,Data,Success,Apartment count: 6
+2025-04-28,02:21:30,Check,Started,Connecting to website
+2025-04-28,02:21:31,Connection,Success,HTTP 200
+2025-04-28,02:21:31,Data,Success,Apartment count: 6
+2025-04-28,02:31:31,Check,Started,Connecting to website
+2025-04-28,02:31:32,Connection,Success,HTTP 200
+2025-04-28,02:31:32,Data,Success,Apartment count: 6
+2025-04-28,02:41:32,Check,Started,Connecting to website
+2025-04-28,02:41:33,Connection,Success,HTTP 200
+2025-04-28,02:41:33,Data,Success,Apartment count: 6
+2025-04-28,02:51:34,Check,Started,Connecting to website
+2025-04-28,02:51:34,Connection,Success,HTTP 200
+2025-04-28,02:51:34,Data,Success,Apartment count: 6
+2025-04-28,03:01:35,Check,Started,Connecting to website
+2025-04-28,03:01:35,Connection,Success,HTTP 200
+2025-04-28,03:01:35,Data,Success,Apartment count: 6
+2025-04-28,03:11:36,Check,Started,Connecting to website
+2025-04-28,03:11:36,Connection,Success,HTTP 200
+2025-04-28,03:11:36,Data,Success,Apartment count: 6
+2025-04-28,03:21:37,Check,Started,Connecting to website
+2025-04-28,03:21:37,Connection,Success,HTTP 200
+2025-04-28,03:21:37,Data,Success,Apartment count: 6
+2025-04-28,03:31:38,Check,Started,Connecting to website
+2025-04-28,03:31:38,Connection,Success,HTTP 200
+2025-04-28,03:31:38,Data,Success,Apartment count: 6
+2025-04-28,03:41:39,Check,Started,Connecting to website
+2025-04-28,03:41:39,Connection,Success,HTTP 200
+2025-04-28,03:41:39,Data,Success,Apartment count: 6
+2025-04-28,03:51:40,Check,Started,Connecting to website
+2025-04-28,03:51:40,Connection,Success,HTTP 200
+2025-04-28,03:51:40,Data,Success,Apartment count: 6
+2025-04-28,04:01:41,Check,Started,Connecting to website
+2025-04-28,04:01:41,Connection,Success,HTTP 200
+2025-04-28,04:01:41,Data,Success,Apartment count: 6
+2025-04-28,04:11:42,Check,Started,Connecting to website
+2025-04-28,04:11:42,Connection,Success,HTTP 200
+2025-04-28,04:11:43,Data,Success,Apartment count: 6
+2025-04-28,04:21:43,Check,Started,Connecting to website
+2025-04-28,04:21:44,Connection,Success,HTTP 200
+2025-04-28,04:21:44,Data,Success,Apartment count: 6
+2025-04-28,04:31:44,Check,Started,Connecting to website
+2025-04-28,04:31:45,Connection,Success,HTTP 200
+2025-04-28,04:31:45,Data,Success,Apartment count: 6
+2025-04-28,04:41:45,Check,Started,Connecting to website
+2025-04-28,04:41:46,Connection,Success,HTTP 200
+2025-04-28,04:41:46,Data,Success,Apartment count: 6
+2025-04-28,04:51:46,Check,Started,Connecting to website
+2025-04-28,04:51:47,Connection,Success,HTTP 200
+2025-04-28,04:51:47,Data,Success,Apartment count: 6
+2025-04-28,05:01:47,Check,Started,Connecting to website
+2025-04-28,05:01:48,Connection,Success,HTTP 200
+2025-04-28,05:01:48,Data,Success,Apartment count: 6
+2025-04-28,05:11:48,Check,Started,Connecting to website
+2025-04-28,05:11:49,Connection,Success,HTTP 200
+2025-04-28,05:11:49,Data,Success,Apartment count: 6
+2025-04-28,05:21:49,Check,Started,Connecting to website
+2025-04-28,05:21:50,Connection,Success,HTTP 200
+2025-04-28,05:21:50,Data,Success,Apartment count: 6
+2025-04-28,05:31:50,Check,Started,Connecting to website
+2025-04-28,05:31:51,Connection,Success,HTTP 200
+2025-04-28,05:31:51,Data,Success,Apartment count: 6
+2025-04-28,05:41:51,Check,Started,Connecting to website
+2025-04-28,05:41:52,Connection,Success,HTTP 200
+2025-04-28,05:41:52,Data,Success,Apartment count: 6
+2025-04-28,05:51:52,Check,Started,Connecting to website
+2025-04-28,05:51:53,Connection,Success,HTTP 200
+2025-04-28,05:51:53,Data,Success,Apartment count: 6
+2025-04-28,06:01:53,Check,Started,Connecting to website
+2025-04-28,06:01:54,Connection,Success,HTTP 200
+2025-04-28,06:01:54,Data,Success,Apartment count: 6
+2025-04-28,06:11:54,Check,Started,Connecting to website
+2025-04-28,06:11:55,Connection,Success,HTTP 200
+2025-04-28,06:11:55,Data,Success,Apartment count: 6
+2025-04-28,06:21:55,Check,Started,Connecting to website
+2025-04-28,06:21:56,Connection,Success,HTTP 200
+2025-04-28,06:21:56,Data,Success,Apartment count: 6
+2025-04-28,06:31:56,Check,Started,Connecting to website
+2025-04-28,06:31:57,Connection,Success,HTTP 200
+2025-04-28,06:31:57,Data,Success,Apartment count: 6
+2025-04-28,06:41:57,Check,Started,Connecting to website
+2025-04-28,06:41:58,Connection,Success,HTTP 200
+2025-04-28,06:41:58,Data,Success,Apartment count: 6
+2025-04-28,06:51:58,Check,Started,Connecting to website
+2025-04-28,06:51:59,Connection,Success,HTTP 200
+2025-04-28,06:51:59,Data,Success,Apartment count: 6
+2025-04-28,07:02:00,Check,Started,Connecting to website
+2025-04-28,07:02:00,Connection,Success,HTTP 200
+2025-04-28,07:02:00,Data,Success,Apartment count: 6
+2025-04-28,07:12:01,Check,Started,Connecting to website
+2025-04-28,07:12:01,Connection,Success,HTTP 200
+2025-04-28,07:12:01,Data,Success,Apartment count: 6
+2025-04-28,07:22:02,Check,Started,Connecting to website
+2025-04-28,07:22:03,Connection,Success,HTTP 200
+2025-04-28,07:22:03,Data,Success,Apartment count: 6
+2025-04-28,07:32:03,Check,Started,Connecting to website
+2025-04-28,07:32:04,Connection,Success,HTTP 200
+2025-04-28,07:32:04,Data,Success,Apartment count: 6
+2025-04-28,07:42:04,Check,Started,Connecting to website
+2025-04-28,07:42:05,Connection,Success,HTTP 200
+2025-04-28,07:42:05,Data,Success,Apartment count: 6
+2025-04-28,07:52:05,Check,Started,Connecting to website
+2025-04-28,07:52:06,Connection,Success,HTTP 200
+2025-04-28,07:52:06,Data,Success,Apartment count: 6
+2025-04-28,08:02:06,Check,Started,Connecting to website
+2025-04-28,08:02:07,Connection,Success,HTTP 200
+2025-04-28,08:02:07,Data,Success,Apartment count: 6
+2025-04-28,08:12:07,Check,Started,Connecting to website
+2025-04-28,08:12:08,Connection,Success,HTTP 200
+2025-04-28,08:12:08,Data,Success,Apartment count: 6
+2025-04-28,08:22:09,Check,Started,Connecting to website
+2025-04-28,08:22:09,Connection,Success,HTTP 200
+2025-04-28,08:22:09,Data,Success,Apartment count: 6
+2025-04-28,08:32:10,Check,Started,Connecting to website
+2025-04-28,08:32:10,Connection,Success,HTTP 200
+2025-04-28,08:32:10,Data,Success,Apartment count: 6
+2025-04-28,08:42:11,Check,Started,Connecting to website
+2025-04-28,08:42:11,Connection,Success,HTTP 200
+2025-04-28,08:42:11,Data,Success,Apartment count: 6
+2025-04-28,08:52:12,Check,Started,Connecting to website
+2025-04-28,08:52:12,Connection,Success,HTTP 200
+2025-04-28,08:52:12,Data,Success,Apartment count: 6
+2025-04-28,09:02:13,Check,Started,Connecting to website
+2025-04-28,09:02:13,Connection,Success,HTTP 200
+2025-04-28,09:02:13,Data,Success,Apartment count: 6
+2025-04-28,09:12:14,Check,Started,Connecting to website
+2025-04-28,09:12:14,Connection,Success,HTTP 200
+2025-04-28,09:12:14,Data,Success,Apartment count: 6
+2025-04-28,09:22:15,Check,Started,Connecting to website
+2025-04-28,09:22:15,Connection,Success,HTTP 200
+2025-04-28,09:22:15,Data,Success,Apartment count: 6
+2025-04-28,09:32:16,Check,Started,Connecting to website
+2025-04-28,09:32:16,Connection,Success,HTTP 200
+2025-04-28,09:32:16,Data,Success,Apartment count: 6
+2025-04-28,09:42:17,Check,Started,Connecting to website
+2025-04-28,09:42:17,Connection,Success,HTTP 200
+2025-04-28,09:42:17,Data,Success,Apartment count: 6
+2025-04-28,09:52:18,Check,Started,Connecting to website
+2025-04-28,09:52:18,Connection,Success,HTTP 200
+2025-04-28,09:52:18,Data,Success,Apartment count: 6
+2025-04-28,10:02:19,Check,Started,Connecting to website
+2025-04-28,10:02:19,Connection,Success,HTTP 200
+2025-04-28,10:02:19,Data,Success,Apartment count: 6
+2025-04-28,10:12:20,Check,Started,Connecting to website
+2025-04-28,10:12:20,Connection,Success,HTTP 200
+2025-04-28,10:12:21,Data,Success,Apartment count: 6
+2025-04-28,10:22:21,Check,Started,Connecting to website
+2025-04-28,10:22:22,Connection,Success,HTTP 200
+2025-04-28,10:22:22,Data,Success,Apartment count: 6
+2025-04-28,10:32:22,Check,Started,Connecting to website
+2025-04-28,10:32:23,Connection,Success,HTTP 200
+2025-04-28,10:32:23,Data,Success,Apartment count: 6
+2025-04-28,10:42:23,Check,Started,Connecting to website
+2025-04-28,10:42:24,Connection,Success,HTTP 200
+2025-04-28,10:42:24,Data,Success,Apartment count: 6
+2025-04-28,10:52:24,Check,Started,Connecting to website
+2025-04-28,10:52:25,Connection,Success,HTTP 200
+2025-04-28,10:52:25,Data,Success,Apartment count: 6
+2025-04-28,11:02:25,Check,Started,Connecting to website
+2025-04-28,11:02:26,Connection,Success,HTTP 200
+2025-04-28,11:02:26,Data,Success,Apartment count: 6
+2025-04-28,11:12:26,Check,Started,Connecting to website
+2025-04-28,11:12:27,Connection,Success,HTTP 200
+2025-04-28,11:12:27,Data,Success,Apartment count: 6
+2025-04-28,11:22:28,Check,Started,Connecting to website
+2025-04-28,11:22:28,Connection,Success,HTTP 200
+2025-04-28,11:22:28,Data,Success,Apartment count: 6
+2025-04-28,11:32:29,Check,Started,Connecting to website
+2025-04-28,11:32:29,Connection,Success,HTTP 200
+2025-04-28,11:32:29,Data,Success,Apartment count: 7
+2025-04-28,11:42:31,Check,Started,Connecting to website
+2025-04-28,11:42:32,Connection,Success,HTTP 200
+2025-04-28,11:42:32,Data,Success,Apartment count: 7
+2025-04-28,11:52:32,Check,Started,Connecting to website
+2025-04-28,11:52:33,Connection,Success,HTTP 200
+2025-04-28,11:52:33,Data,Success,Apartment count: 6
+2025-04-28,12:02:34,Check,Started,Connecting to website
+2025-04-28,12:02:35,Connection,Success,HTTP 200
+2025-04-28,12:02:35,Data,Success,Apartment count: 6
+2025-04-28,12:12:35,Check,Started,Connecting to website
+2025-04-28,12:12:36,Connection,Success,HTTP 200
+2025-04-28,12:12:36,Data,Success,Apartment count: 6
+2025-04-28,12:22:36,Check,Started,Connecting to website
+2025-04-28,12:22:37,Connection,Success,HTTP 200
+2025-04-28,12:22:37,Data,Success,Apartment count: 6
+2025-04-28,12:32:37,Check,Started,Connecting to website
+2025-04-28,12:32:38,Connection,Success,HTTP 200
+2025-04-28,12:32:38,Data,Success,Apartment count: 6
+2025-04-28,12:42:38,Check,Started,Connecting to website
+2025-04-28,12:42:39,Connection,Success,HTTP 200
+2025-04-28,12:42:39,Data,Success,Apartment count: 6
+2025-04-28,12:52:39,Check,Started,Connecting to website
+2025-04-28,12:52:40,Connection,Success,HTTP 200
+2025-04-28,12:52:40,Data,Success,Apartment count: 7
+2025-04-28,13:02:42,Check,Started,Connecting to website
+2025-04-28,13:02:42,Connection,Success,HTTP 200
+2025-04-28,13:02:42,Data,Success,Apartment count: 6
+2025-04-28,13:12:44,Check,Started,Connecting to website
+2025-04-28,13:12:45,Connection,Success,HTTP 200
+2025-04-28,13:12:45,Data,Success,Apartment count: 6
+2025-04-28,13:22:45,Check,Started,Connecting to website
+2025-04-28,13:22:46,Connection,Success,HTTP 200
+2025-04-28,13:22:46,Data,Success,Apartment count: 6
+2025-04-28,13:32:46,Check,Started,Connecting to website
+2025-04-28,13:32:47,Connection,Success,HTTP 200
+2025-04-28,13:32:47,Data,Success,Apartment count: 7
+2025-04-28,13:42:49,Check,Started,Connecting to website
+2025-04-28,13:42:50,Connection,Success,HTTP 200
+2025-04-28,13:42:50,Data,Success,Apartment count: 7
+2025-04-28,13:50:06,System,Started,Version 2.2 - Check interval: 5 minutes
+2025-04-28,13:50:06,Check,Started,Connecting to website
+2025-04-28,13:50:09,Connection,Success,HTTP 200
+2025-04-28,13:50:09,Data,Success,Apartment count: 7
+2025-04-28,13:55:11,Check,Started,Connecting to website
+2025-04-28,13:55:11,Connection,Success,HTTP 200
+2025-04-28,13:55:11,Data,Success,Apartment count: 7
+2025-04-28,14:00:11,Check,Started,Connecting to website
+2025-04-28,14:00:12,Connection,Success,HTTP 200
+2025-04-28,14:00:12,Data,Success,Apartment count: 7
+2025-04-28,14:05:13,Check,Started,Connecting to website
+2025-04-28,14:05:14,Connection,Success,HTTP 200
+2025-04-28,14:05:14,Data,Success,Apartment count: 7
+2025-04-28,14:10:15,Check,Started,Connecting to website
+2025-04-28,14:10:15,Connection,Success,HTTP 200
+2025-04-28,14:10:15,Data,Success,Apartment count: 7
+2025-04-28,14:15:16,Check,Started,Connecting to website
+2025-04-28,14:15:16,Connection,Success,HTTP 200
+2025-04-28,14:15:17,Data,Success,Apartment count: 7
+2025-04-28,14:20:17,Check,Started,Connecting to website
+2025-04-28,14:20:17,Connection,Success,HTTP 200
+2025-04-28,14:20:17,Data,Success,Apartment count: 8
+2025-04-28,14:25:19,Check,Started,Connecting to website
+2025-04-28,14:25:20,Connection,Success,HTTP 200
+2025-04-28,14:25:20,Data,Success,Apartment count: 8
+2025-04-28,14:30:20,Check,Started,Connecting to website
+2025-04-28,14:30:24,Connection,Success,HTTP 200
+2025-04-28,14:30:24,Data,Success,Apartment count: 8
+2025-04-28,14:35:24,Check,Started,Connecting to website
+2025-04-28,14:35:25,Connection,Success,HTTP 200
+2025-04-28,14:35:25,Data,Success,Apartment count: 6
+2025-04-28,14:40:26,Check,Started,Connecting to website
+2025-04-28,14:40:27,Connection,Success,HTTP 200
+2025-04-28,14:40:27,Data,Success,Apartment count: 6
+2025-04-28,14:45:27,Check,Started,Connecting to website
+2025-04-28,14:45:28,Connection,Success,HTTP 200
+2025-04-28,14:45:28,Data,Success,Apartment count: 6
+2025-04-28,14:50:28,Check,Started,Connecting to website
+2025-04-28,14:50:29,Connection,Success,HTTP 200
+2025-04-28,14:50:29,Data,Success,Apartment count: 6
+2025-04-28,14:55:29,Check,Started,Connecting to website
+2025-04-28,14:55:30,Connection,Success,HTTP 200
+2025-04-28,14:55:30,Data,Success,Apartment count: 6
+2025-04-28,15:00:30,Check,Started,Connecting to website
+2025-04-28,15:00:31,Connection,Success,HTTP 200
+2025-04-28,15:00:31,Data,Success,Apartment count: 6
+2025-04-28,15:05:31,Check,Started,Connecting to website
+2025-04-28,15:05:32,Connection,Success,HTTP 200
+2025-04-28,15:05:32,Data,Success,Apartment count: 6
+2025-04-28,15:10:32,Check,Started,Connecting to website
+2025-04-28,15:10:33,Connection,Success,HTTP 200
+2025-04-28,15:10:33,Data,Success,Apartment count: 6
+2025-04-28,15:15:33,Check,Started,Connecting to website
+2025-04-28,15:15:34,Connection,Success,HTTP 200
+2025-04-28,15:15:34,Data,Success,Apartment count: 6
+2025-04-28,15:20:34,Check,Started,Connecting to website
+2025-04-28,15:20:35,Connection,Success,HTTP 200
+2025-04-28,15:20:35,Data,Success,Apartment count: 6
+2025-04-28,15:25:27,System,Stopped,By user
+2025-04-28,15:25:32,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-04-28,15:25:32,Check,Started,Connecting to website
+2025-04-28,15:25:33,Connection,Success,HTTP 200
+2025-04-28,15:25:56,System,Stopped,By user
+2025-04-28,15:26:52,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-04-28,15:26:52,Check,Started,Connecting to website
+2025-04-28,15:26:52,Connection,Success,HTTP 200
+2025-04-28,15:29:00,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-04-28,15:29:00,Check,Started,Connecting to website
+2025-04-28,15:29:01,Connection,Success,HTTP 200
+2025-04-28,15:33:57,System,Stopped,By user
+2025-04-28,15:34:01,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-04-28,15:34:01,Check,Started,Connecting to website
+2025-04-28,15:34:01,Connection,Success,HTTP 200
+2025-04-28,15:35:29,System,Stopped,By user
+2025-04-28,15:35:31,System,Started,Version 2.2 - Check interval: 10 minutes
+2025-04-28,15:35:31,Check,Started,Connecting to website
+2025-04-28,15:35:31,Connection,Success,HTTP 200
+2025-04-28,15:35:32,Data,Success,Apartment count: 6
+2025-04-28,15:35:36,System,Stopped,By user
+2025-04-28,15:35:58,System,Started,Version 2.2 - Check interval: 5 minutes
+2025-04-28,15:35:58,Check,Started,Connecting to website
+2025-04-28,15:35:59,Connection,Success,HTTP 200
+2025-04-28,15:35:59,Data,Success,Apartment count: 6
+2025-04-28,15:41:00,Check,Started,Connecting to website
+2025-04-28,15:41:01,Connection,Success,HTTP 200
+2025-04-28,15:41:01,Data,Success,Apartment count: 6
+2025-04-28,15:46:01,Check,Started,Connecting to website
+2025-04-28,15:46:02,Connection,Success,HTTP 200
+2025-04-28,15:46:02,Data,Success,Apartment count: 6
+2025-04-28,15:51:02,Check,Started,Connecting to website
+2025-04-28,15:51:03,Connection,Success,HTTP 200
+2025-04-28,15:51:03,Data,Success,Apartment count: 6
+2025-04-28,15:56:03,Check,Started,Connecting to website
+2025-04-28,15:56:04,Connection,Success,HTTP 200
+2025-04-28,15:56:04,Data,Success,Apartment count: 6
+2025-04-28,16:01:04,Check,Started,Connecting to website
+2025-04-28,16:01:05,Connection,Success,HTTP 200
+2025-04-28,16:01:05,Data,Success,Apartment count: 5
+2025-04-28,16:06:07,Check,Started,Connecting to website
+2025-04-28,16:06:08,Connection,Success,HTTP 200
+2025-04-28,16:06:08,Data,Success,Apartment count: 5
+2025-04-28,16:11:08,Check,Started,Connecting to website
+2025-04-28,16:11:09,Connection,Success,HTTP 200
+2025-04-28,16:11:09,Data,Success,Apartment count: 5
+2025-04-28,16:16:09,Check,Started,Connecting to website
+2025-04-28,16:16:10,Connection,Success,HTTP 200
+2025-04-28,16:16:10,Data,Success,Apartment count: 5
+2025-04-28,16:21:10,Check,Started,Connecting to website
+2025-04-28,16:21:11,Connection,Success,HTTP 200
+2025-04-28,16:21:11,Data,Success,Apartment count: 5
+2025-04-28,16:26:11,Check,Started,Connecting to website
+2025-04-28,16:26:12,Connection,Success,HTTP 200
+2025-04-28,16:26:12,Data,Success,Apartment count: 5
+2025-04-28,16:31:12,Check,Started,Connecting to website
+2025-04-28,16:31:12,Connection,Success,HTTP 200
+2025-04-28,16:31:12,Data,Success,Apartment count: 5
+2025-04-28,16:36:13,Check,Started,Connecting to website
+2025-04-28,16:36:13,Connection,Success,HTTP 200
+2025-04-28,16:36:13,Data,Success,Apartment count: 5
+2025-04-28,16:41:14,Check,Started,Connecting to website
+2025-04-28,16:41:14,Connection,Success,HTTP 200
+2025-04-28,16:41:14,Data,Success,Apartment count: 5
+2025-04-28,16:46:15,Check,Started,Connecting to website
+2025-04-28,16:46:15,Connection,Success,HTTP 200
+2025-04-28,16:46:15,Data,Success,Apartment count: 5
+2025-04-28,16:51:16,Check,Started,Connecting to website
+2025-04-28,16:51:16,Connection,Success,HTTP 200
+2025-04-28,16:51:16,Data,Success,Apartment count: 5
+2025-04-28,16:56:16,Check,Started,Connecting to website
+2025-04-28,16:56:17,Connection,Success,HTTP 200
+2025-04-28,16:56:17,Data,Success,Apartment count: 5
+2025-04-28,17:01:17,Check,Started,Connecting to website
+2025-04-28,17:01:18,Connection,Success,HTTP 200
+2025-04-28,17:01:18,Data,Success,Apartment count: 5
+2025-04-28,17:06:18,Check,Started,Connecting to website
+2025-04-28,17:06:19,Connection,Success,HTTP 200
+2025-04-28,17:06:19,Data,Success,Apartment count: 5
+2025-04-28,17:11:19,Check,Started,Connecting to website
+2025-04-28,17:11:20,Connection,Success,HTTP 200
+2025-04-28,17:11:20,Data,Success,Apartment count: 5
+2025-04-28,17:16:20,Check,Started,Connecting to website
+2025-04-28,17:16:21,Connection,Success,HTTP 200
+2025-04-28,17:16:21,Data,Success,Apartment count: 5
+2025-04-28,17:21:21,Check,Started,Connecting to website
+2025-04-28,17:21:22,Connection,Success,HTTP 200
+2025-04-28,17:21:22,Data,Success,Apartment count: 5
+2025-04-28,17:26:22,Check,Started,Connecting to website
+2025-04-28,17:26:23,Connection,Success,HTTP 200
+2025-04-28,17:26:23,Data,Success,Apartment count: 5
+2025-04-28,17:31:23,Check,Started,Connecting to website
+2025-04-28,17:31:23,Connection,Success,HTTP 200
+2025-04-28,17:31:24,Data,Success,Apartment count: 5
+2025-04-28,17:36:24,Check,Started,Connecting to website
+2025-04-28,17:36:24,Connection,Success,HTTP 200
+2025-04-28,17:36:24,Data,Success,Apartment count: 5
+2025-04-28,17:41:25,Check,Started,Connecting to website
+2025-04-28,17:41:25,Connection,Success,HTTP 200
+2025-04-28,17:41:25,Data,Success,Apartment count: 5
+2025-04-28,17:46:26,Check,Started,Connecting to website
+2025-04-28,17:46:26,Connection,Success,HTTP 200
+2025-04-28,17:46:26,Data,Success,Apartment count: 6
+2025-04-28,17:51:28,Check,Started,Connecting to website
+2025-04-28,17:51:29,Connection,Success,HTTP 200
+2025-04-28,17:51:29,Data,Success,Apartment count: 6
+2025-04-28,17:56:29,Check,Started,Connecting to website
+2025-04-28,17:56:30,Connection,Success,HTTP 200
+2025-04-28,17:56:30,Data,Success,Apartment count: 6
+2025-04-28,18:01:30,Check,Started,Connecting to website
+2025-04-28,18:01:31,Connection,Success,HTTP 200
+2025-04-28,18:01:31,Data,Success,Apartment count: 6
+2025-04-28,18:06:31,Check,Started,Connecting to website
+2025-04-28,18:06:32,Connection,Success,HTTP 200
+2025-04-28,18:06:32,Data,Success,Apartment count: 6
+2025-04-28,18:11:32,Check,Started,Connecting to website
+2025-04-28,18:11:33,Connection,Success,HTTP 200
+2025-04-28,18:11:33,Data,Success,Apartment count: 6
+2025-04-28,18:16:33,Check,Started,Connecting to website
+2025-04-28,18:16:34,Connection,Success,HTTP 200
+2025-04-28,18:16:34,Data,Success,Apartment count: 7
+2025-04-28,18:21:35,Check,Started,Connecting to website
+2025-04-28,18:21:36,Connection,Success,HTTP 200
+2025-04-28,18:21:36,Data,Success,Apartment count: 7
+2025-04-28,18:26:36,Check,Started,Connecting to website
+2025-04-28,18:26:37,Connection,Success,HTTP 200
+2025-04-28,18:26:37,Data,Success,Apartment count: 7
+2025-04-28,18:31:37,Check,Started,Connecting to website
+2025-04-28,18:31:38,Connection,Success,HTTP 200
+2025-04-28,18:31:38,Data,Success,Apartment count: 7
+2025-04-28,18:36:38,Check,Started,Connecting to website
+2025-04-28,18:36:39,Connection,Success,HTTP 200
+2025-04-28,18:36:39,Data,Success,Apartment count: 7
+2025-04-28,18:41:39,Check,Started,Connecting to website
+2025-04-28,18:41:40,Connection,Success,HTTP 200
+2025-04-28,18:41:40,Data,Success,Apartment count: 7
+2025-04-28,18:46:40,Check,Started,Connecting to website
+2025-04-28,18:46:40,Connection,Success,HTTP 200
+2025-04-28,18:46:41,Data,Success,Apartment count: 5
+2025-04-28,18:51:42,Check,Started,Connecting to website
+2025-04-28,18:51:43,Connection,Success,HTTP 200
+2025-04-28,18:51:43,Data,Success,Apartment count: 5
+2025-04-28,18:56:43,Check,Started,Connecting to website
+2025-04-28,18:56:44,Connection,Success,HTTP 200
+2025-04-28,18:56:44,Data,Success,Apartment count: 5
+2025-04-28,19:01:44,Check,Started,Connecting to website
+2025-04-28,19:01:45,Connection,Success,HTTP 200
+2025-04-28,19:01:45,Data,Success,Apartment count: 5
+2025-04-28,19:06:45,Check,Started,Connecting to website
+2025-04-28,19:06:46,Connection,Success,HTTP 200
+2025-04-28,19:06:46,Data,Success,Apartment count: 5
+2025-04-28,19:11:46,Check,Started,Connecting to website
+2025-04-28,19:11:47,Connection,Success,HTTP 200
+2025-04-28,19:11:47,Data,Success,Apartment count: 5
+2025-04-28,19:16:47,Check,Started,Connecting to website
+2025-04-28,19:16:48,Connection,Success,HTTP 200
+2025-04-28,19:16:48,Data,Success,Apartment count: 5
+2025-04-28,19:21:48,Check,Started,Connecting to website
+2025-04-28,19:21:48,Connection,Success,HTTP 200
+2025-04-28,19:21:49,Data,Success,Apartment count: 5
+2025-04-28,19:26:49,Check,Started,Connecting to website
+2025-04-28,19:26:49,Connection,Success,HTTP 200
+2025-04-28,19:26:49,Data,Success,Apartment count: 5
+2025-04-28,19:31:50,Check,Started,Connecting to website
+2025-04-28,19:31:50,Connection,Success,HTTP 200
+2025-04-28,19:31:50,Data,Success,Apartment count: 5
+2025-04-28,19:36:50,Check,Started,Connecting to website
+2025-04-28,19:36:51,Connection,Success,HTTP 200
+2025-04-28,19:36:51,Data,Success,Apartment count: 5
+2025-04-28,19:41:51,Check,Started,Connecting to website
+2025-04-28,19:41:52,Connection,Success,HTTP 200
+2025-04-28,19:41:52,Data,Success,Apartment count: 5
+2025-04-28,19:46:53,Check,Started,Connecting to website
+2025-04-28,19:46:53,Connection,Success,HTTP 200
+2025-04-28,19:46:53,Data,Success,Apartment count: 5
+2025-04-28,19:51:54,Check,Started,Connecting to website
+2025-04-28,19:51:54,Connection,Success,HTTP 200
+2025-04-28,19:51:54,Data,Success,Apartment count: 5
+2025-04-28,19:56:54,Check,Started,Connecting to website
+2025-04-28,19:56:55,Connection,Success,HTTP 200
+2025-04-28,19:56:55,Data,Success,Apartment count: 5
+2025-04-28,20:01:55,Check,Started,Connecting to website
+2025-04-28,20:01:56,Connection,Success,HTTP 200
+2025-04-28,20:01:56,Data,Success,Apartment count: 5
+2025-04-28,20:06:56,Check,Started,Connecting to website
+2025-04-28,20:06:57,Connection,Success,HTTP 200
+2025-04-28,20:06:57,Data,Success,Apartment count: 5
+2025-04-28,20:11:57,Check,Started,Connecting to website
+2025-04-28,20:11:58,Connection,Success,HTTP 200
+2025-04-28,20:11:58,Data,Success,Apartment count: 5
+2025-04-28,20:16:58,Check,Started,Connecting to website
+2025-04-28,20:16:58,Connection,Success,HTTP 200
+2025-04-28,20:16:58,Data,Success,Apartment count: 5
+2025-04-28,20:21:59,Check,Started,Connecting to website
+2025-04-28,20:21:59,Connection,Success,HTTP 200
+2025-04-28,20:21:59,Data,Success,Apartment count: 5
+2025-04-28,20:27:00,Check,Started,Connecting to website
+2025-04-28,20:27:00,Connection,Success,HTTP 200
+2025-04-28,20:27:00,Data,Success,Apartment count: 5
+2025-04-28,20:32:00,Check,Started,Connecting to website
+2025-04-28,20:32:01,Connection,Success,HTTP 200
+2025-04-28,20:32:01,Data,Success,Apartment count: 5
+2025-04-28,20:37:01,Check,Started,Connecting to website
+2025-04-28,20:37:02,Connection,Success,HTTP 200
+2025-04-28,20:37:02,Data,Success,Apartment count: 5
+2025-04-28,20:42:03,Check,Started,Connecting to website
+2025-04-28,20:42:03,Connection,Success,HTTP 200
+2025-04-28,20:42:03,Data,Success,Apartment count: 5
+2025-04-28,20:47:04,Check,Started,Connecting to website
+2025-04-28,20:47:04,Connection,Success,HTTP 200
+2025-04-28,20:47:04,Data,Success,Apartment count: 5
+2025-04-28,20:52:04,Check,Started,Connecting to website
+2025-04-28,20:52:05,Connection,Success,HTTP 200
+2025-04-28,20:52:05,Data,Success,Apartment count: 5
+2025-04-28,20:57:05,Check,Started,Connecting to website
+2025-04-28,20:57:06,Connection,Success,HTTP 200
+2025-04-28,20:57:06,Data,Success,Apartment count: 5
+2025-04-28,21:02:06,Check,Started,Connecting to website
+2025-04-28,21:02:07,Connection,Success,HTTP 200
+2025-04-28,21:02:07,Data,Success,Apartment count: 5
+2025-04-28,21:07:07,Check,Started,Connecting to website
+2025-04-28,21:07:08,Connection,Success,HTTP 200
+2025-04-28,21:07:08,Data,Success,Apartment count: 5
+2025-04-28,21:12:08,Check,Started,Connecting to website
+2025-04-28,21:12:09,Connection,Success,HTTP 200
+2025-04-28,21:12:09,Data,Success,Apartment count: 5
+2025-04-28,21:17:09,Check,Started,Connecting to website
+2025-04-28,21:17:09,Connection,Success,HTTP 200
+2025-04-28,21:17:09,Data,Success,Apartment count: 5
+2025-04-28,21:22:10,Check,Started,Connecting to website
+2025-04-28,21:22:10,Connection,Success,HTTP 200
+2025-04-28,21:22:10,Data,Success,Apartment count: 5
+2025-04-28,21:27:11,Check,Started,Connecting to website
+2025-04-28,21:27:11,Connection,Success,HTTP 200
+2025-04-28,21:27:11,Data,Success,Apartment count: 5
+2025-04-28,21:32:11,Check,Started,Connecting to website
+2025-04-28,21:32:12,Connection,Success,HTTP 200
+2025-04-28,21:32:12,Data,Success,Apartment count: 5
+2025-04-28,21:37:12,Check,Started,Connecting to website
+2025-04-28,21:37:13,Connection,Success,HTTP 200
+2025-04-28,21:37:13,Data,Success,Apartment count: 5
+2025-04-28,21:42:13,Check,Started,Connecting to website
+2025-04-28,21:42:14,Connection,Success,HTTP 200
+2025-04-28,21:42:14,Data,Success,Apartment count: 5
+2025-04-28,21:47:14,Check,Started,Connecting to website
+2025-04-28,21:47:15,Connection,Success,HTTP 200
+2025-04-28,21:47:15,Data,Success,Apartment count: 5
+2025-04-28,21:52:15,Check,Started,Connecting to website
+2025-04-28,21:52:16,Connection,Success,HTTP 200
+2025-04-28,21:52:16,Data,Success,Apartment count: 5
+2025-04-28,21:57:16,Check,Started,Connecting to website
+2025-04-28,21:57:16,Connection,Success,HTTP 200
+2025-04-28,21:57:17,Data,Success,Apartment count: 5
+2025-04-28,22:02:17,Check,Started,Connecting to website
+2025-04-28,22:02:17,Connection,Success,HTTP 200
+2025-04-28,22:02:17,Data,Success,Apartment count: 5
+2025-04-28,22:07:18,Check,Started,Connecting to website
+2025-04-28,22:07:18,Connection,Success,HTTP 200
+2025-04-28,22:07:18,Data,Success,Apartment count: 5
+2025-04-28,22:12:18,Check,Started,Connecting to website
+2025-04-28,22:12:19,Connection,Success,HTTP 200
+2025-04-28,22:12:19,Data,Success,Apartment count: 5
+2025-04-28,22:17:19,Check,Started,Connecting to website
+2025-04-28,22:17:20,Connection,Success,HTTP 200
+2025-04-28,22:17:20,Data,Success,Apartment count: 5
+2025-04-28,22:22:20,Check,Started,Connecting to website
+2025-04-28,22:22:21,Connection,Success,HTTP 200
+2025-04-28,22:22:21,Data,Success,Apartment count: 5
+2025-04-28,22:27:21,Check,Started,Connecting to website
+2025-04-28,22:27:22,Connection,Success,HTTP 200
+2025-04-28,22:27:22,Data,Success,Apartment count: 5
+2025-04-28,22:32:22,Check,Started,Connecting to website
+2025-04-28,22:32:23,Connection,Success,HTTP 200
+2025-04-28,22:32:23,Data,Success,Apartment count: 5
+2025-04-28,22:37:23,Check,Started,Connecting to website
+2025-04-28,22:37:24,Connection,Success,HTTP 200
+2025-04-28,22:37:24,Data,Success,Apartment count: 5
+2025-04-28,22:42:24,Check,Started,Connecting to website
+2025-04-28,22:42:24,Connection,Success,HTTP 200
+2025-04-28,22:42:25,Data,Success,Apartment count: 5
+2025-04-28,22:47:25,Check,Started,Connecting to website
+2025-04-28,22:47:25,Connection,Success,HTTP 200
+2025-04-28,22:47:25,Data,Success,Apartment count: 5
+2025-04-28,22:52:25,Check,Started,Connecting to website
+2025-04-28,22:52:26,Connection,Success,HTTP 200
+2025-04-28,22:52:26,Data,Success,Apartment count: 5
+2025-04-28,22:57:27,Check,Started,Connecting to website
+2025-04-28,22:57:27,Connection,Success,HTTP 200
+2025-04-28,22:57:27,Data,Success,Apartment count: 5
+2025-04-28,23:02:27,Check,Started,Connecting to website
+2025-04-28,23:02:28,Connection,Success,HTTP 200
+2025-04-28,23:02:28,Data,Success,Apartment count: 5
+2025-04-28,23:07:29,Check,Started,Connecting to website
+2025-04-28,23:07:30,Connection,Success,HTTP 200
+2025-04-28,23:07:30,Data,Success,Apartment count: 5
+2025-04-28,23:12:30,Check,Started,Connecting to website
+2025-04-28,23:12:31,Connection,Success,HTTP 200
+2025-04-28,23:12:31,Data,Success,Apartment count: 5
+2025-04-28,23:17:31,Check,Started,Connecting to website
+2025-04-28,23:17:31,Connection,Success,HTTP 200
+2025-04-28,23:17:31,Data,Success,Apartment count: 5
+2025-04-28,23:22:32,Check,Started,Connecting to website
+2025-04-28,23:22:32,Connection,Success,HTTP 200
+2025-04-28,23:22:33,Data,Success,Apartment count: 5
+2025-04-28,23:27:33,Check,Started,Connecting to website
+2025-04-28,23:27:34,Connection,Success,HTTP 200
+2025-04-28,23:27:34,Data,Success,Apartment count: 5
+2025-04-28,23:32:34,Check,Started,Connecting to website
+2025-04-28,23:32:34,Connection,Success,HTTP 200
+2025-04-28,23:32:35,Data,Success,Apartment count: 5
+2025-04-28,23:37:35,Check,Started,Connecting to website
+2025-04-28,23:37:35,Connection,Success,HTTP 200
+2025-04-28,23:37:35,Data,Success,Apartment count: 5
+2025-04-28,23:42:36,Check,Started,Connecting to website
+2025-04-28,23:42:36,Connection,Success,HTTP 200
+2025-04-28,23:42:36,Data,Success,Apartment count: 5
+2025-04-28,23:47:37,Check,Started,Connecting to website
+2025-04-28,23:47:37,Connection,Success,HTTP 200
+2025-04-28,23:47:37,Data,Success,Apartment count: 5
+2025-04-28,23:52:37,Check,Started,Connecting to website
+2025-04-28,23:52:38,Connection,Success,HTTP 200
+2025-04-28,23:52:38,Data,Success,Apartment count: 5
+2025-04-28,23:57:38,Check,Started,Connecting to website
+2025-04-28,23:57:39,Connection,Success,HTTP 200
+2025-04-28,23:57:39,Data,Success,Apartment count: 5
+2025-04-29,00:02:39,Check,Started,Connecting to website
+2025-04-29,00:02:40,Connection,Success,HTTP 200
+2025-04-29,00:02:40,Data,Success,Apartment count: 5
+2025-04-29,00:07:40,Check,Started,Connecting to website
+2025-04-29,00:07:41,Connection,Success,HTTP 200
+2025-04-29,00:07:41,Data,Success,Apartment count: 5
+2025-04-29,00:12:41,Check,Started,Connecting to website
+2025-04-29,00:12:42,Connection,Success,HTTP 200
+2025-04-29,00:12:42,Data,Success,Apartment count: 5
+2025-04-29,00:17:42,Check,Started,Connecting to website
+2025-04-29,00:17:43,Connection,Success,HTTP 200
+2025-04-29,00:17:43,Data,Success,Apartment count: 5
+2025-04-29,00:22:43,Check,Started,Connecting to website
+2025-04-29,00:22:44,Connection,Success,HTTP 200
+2025-04-29,00:22:44,Data,Success,Apartment count: 5
+2025-04-29,00:27:44,Check,Started,Connecting to website
+2025-04-29,00:27:45,Connection,Success,HTTP 200
+2025-04-29,00:27:45,Data,Success,Apartment count: 5
+2025-04-29,00:32:45,Check,Started,Connecting to website
+2025-04-29,00:32:48,Connection,Success,HTTP 200
+2025-04-29,00:32:48,Data,Success,Apartment count: 5
+2025-04-29,00:37:49,Check,Started,Connecting to website
+2025-04-29,00:37:49,Connection,Success,HTTP 200
+2025-04-29,00:37:49,Data,Success,Apartment count: 5
+2025-04-29,00:42:50,Check,Started,Connecting to website
+2025-04-29,00:42:50,Connection,Success,HTTP 200
+2025-04-29,00:42:50,Data,Success,Apartment count: 5
+2025-04-29,00:47:50,Check,Started,Connecting to website
+2025-04-29,00:47:51,Connection,Success,HTTP 200
+2025-04-29,00:47:51,Data,Success,Apartment count: 5
+2025-04-29,00:52:51,Check,Started,Connecting to website
+2025-04-29,00:52:52,Connection,Success,HTTP 200
+2025-04-29,00:52:52,Data,Success,Apartment count: 5
+2025-04-29,00:57:52,Check,Started,Connecting to website
+2025-04-29,00:57:53,Connection,Success,HTTP 200
+2025-04-29,00:57:53,Data,Success,Apartment count: 5
+2025-04-29,01:02:53,Check,Started,Connecting to website
+2025-04-29,01:02:54,Connection,Success,HTTP 200
+2025-04-29,01:02:54,Data,Success,Apartment count: 5
+2025-04-29,01:07:54,Check,Started,Connecting to website
+2025-04-29,01:07:55,Connection,Success,HTTP 200
+2025-04-29,01:07:55,Data,Success,Apartment count: 5
+2025-04-29,01:12:55,Check,Started,Connecting to website
+2025-04-29,01:12:56,Connection,Success,HTTP 200
+2025-04-29,01:12:56,Data,Success,Apartment count: 5
+2025-04-29,01:17:56,Check,Started,Connecting to website
+2025-04-29,01:17:57,Connection,Success,HTTP 200
+2025-04-29,01:17:57,Data,Success,Apartment count: 5
+2025-04-29,01:22:57,Check,Started,Connecting to website
+2025-04-29,01:22:57,Connection,Success,HTTP 200
+2025-04-29,01:22:58,Data,Success,Apartment count: 5
+2025-04-29,01:27:58,Check,Started,Connecting to website
+2025-04-29,01:27:58,Connection,Success,HTTP 200
+2025-04-29,01:27:58,Data,Success,Apartment count: 5
+2025-04-29,01:32:58,Check,Started,Connecting to website
+2025-04-29,01:32:59,Connection,Success,HTTP 200
+2025-04-29,01:32:59,Data,Success,Apartment count: 5
+2025-04-29,01:37:59,Check,Started,Connecting to website
+2025-04-29,01:38:00,Connection,Success,HTTP 200
+2025-04-29,01:38:00,Data,Success,Apartment count: 5
+2025-04-29,01:43:00,Check,Started,Connecting to website
+2025-04-29,01:43:01,Connection,Success,HTTP 200
+2025-04-29,01:43:01,Data,Success,Apartment count: 5
+2025-04-29,01:48:01,Check,Started,Connecting to website
+2025-04-29,01:48:01,Connection,Success,HTTP 200
+2025-04-29,01:48:02,Data,Success,Apartment count: 5
+2025-04-29,01:53:02,Check,Started,Connecting to website
+2025-04-29,01:53:02,Connection,Success,HTTP 200
+2025-04-29,01:53:02,Data,Success,Apartment count: 5
+2025-04-29,01:58:03,Check,Started,Connecting to website
+2025-04-29,01:58:03,Connection,Success,HTTP 200
+2025-04-29,01:58:03,Data,Success,Apartment count: 5
+2025-04-29,02:03:03,Check,Started,Connecting to website
+2025-04-29,02:03:04,Connection,Success,HTTP 200
+2025-04-29,02:03:04,Data,Success,Apartment count: 5
+2025-04-29,02:08:04,Check,Started,Connecting to website
+2025-04-29,02:08:05,Connection,Success,HTTP 200
+2025-04-29,02:08:05,Data,Success,Apartment count: 5
+2025-04-29,02:13:05,Check,Started,Connecting to website
+2025-04-29,02:13:06,Connection,Success,HTTP 200
+2025-04-29,02:13:06,Data,Success,Apartment count: 5
+2025-04-29,02:18:06,Check,Started,Connecting to website
+2025-04-29,02:18:07,Connection,Success,HTTP 200
+2025-04-29,02:18:07,Data,Success,Apartment count: 5
+2025-04-29,02:23:07,Check,Started,Connecting to website
+2025-04-29,02:23:08,Connection,Success,HTTP 200
+2025-04-29,02:23:08,Data,Success,Apartment count: 5
+2025-04-29,02:28:08,Check,Started,Connecting to website
+2025-04-29,02:28:10,Connection,Success,HTTP 200
+2025-04-29,02:28:10,Data,Success,Apartment count: 5
+2025-04-29,02:33:11,Check,Started,Connecting to website
+2025-04-29,02:33:11,Connection,Success,HTTP 200
+2025-04-29,02:33:11,Data,Success,Apartment count: 5
+2025-04-29,02:38:11,Check,Started,Connecting to website
+2025-04-29,02:38:12,Connection,Success,HTTP 200
+2025-04-29,02:38:12,Data,Success,Apartment count: 5
+2025-04-29,02:43:12,Check,Started,Connecting to website
+2025-04-29,02:43:13,Connection,Success,HTTP 200
+2025-04-29,02:43:13,Data,Success,Apartment count: 5
+2025-04-29,02:48:13,Check,Started,Connecting to website
+2025-04-29,02:48:14,Connection,Success,HTTP 200
+2025-04-29,02:48:14,Data,Success,Apartment count: 5
+2025-04-29,02:53:14,Check,Started,Connecting to website
+2025-04-29,02:53:15,Connection,Success,HTTP 200
+2025-04-29,02:53:15,Data,Success,Apartment count: 5
+2025-04-29,02:58:15,Check,Started,Connecting to website
+2025-04-29,02:58:15,Connection,Success,HTTP 200
+2025-04-29,02:58:15,Data,Success,Apartment count: 5
+2025-04-29,03:03:16,Check,Started,Connecting to website
+2025-04-29,03:03:16,Connection,Success,HTTP 200
+2025-04-29,03:03:16,Data,Success,Apartment count: 5
+2025-04-29,03:08:16,Check,Started,Connecting to website
+2025-04-29,03:08:17,Connection,Success,HTTP 200
+2025-04-29,03:08:17,Data,Success,Apartment count: 5
+2025-04-29,03:13:17,Check,Started,Connecting to website
+2025-04-29,03:13:18,Connection,Success,HTTP 200
+2025-04-29,03:13:18,Data,Success,Apartment count: 5
+2025-04-29,03:18:18,Check,Started,Connecting to website
+2025-04-29,03:18:19,Connection,Success,HTTP 200
+2025-04-29,03:18:19,Data,Success,Apartment count: 5
+2025-04-29,03:23:19,Check,Started,Connecting to website
+2025-04-29,03:23:20,Connection,Success,HTTP 200
+2025-04-29,03:23:20,Data,Success,Apartment count: 5
+2025-04-29,03:28:20,Check,Started,Connecting to website
+2025-04-29,03:28:20,Connection,Success,HTTP 200
+2025-04-29,03:28:20,Data,Success,Apartment count: 5
+2025-04-29,03:33:21,Check,Started,Connecting to website
+2025-04-29,03:33:21,Connection,Success,HTTP 200
+2025-04-29,03:33:21,Data,Success,Apartment count: 5
+2025-04-29,03:38:22,Check,Started,Connecting to website
+2025-04-29,03:38:22,Connection,Success,HTTP 200
+2025-04-29,03:38:22,Data,Success,Apartment count: 5
+2025-04-29,03:43:22,Check,Started,Connecting to website
+2025-04-29,03:43:23,Connection,Success,HTTP 200
+2025-04-29,03:43:23,Data,Success,Apartment count: 5
+2025-04-29,03:48:23,Check,Started,Connecting to website
+2025-04-29,03:48:24,Connection,Success,HTTP 200
+2025-04-29,03:48:24,Data,Success,Apartment count: 5
+2025-04-29,03:53:24,Check,Started,Connecting to website
+2025-04-29,03:53:25,Connection,Success,HTTP 200
+2025-04-29,03:53:25,Data,Success,Apartment count: 5
+2025-04-29,03:58:25,Check,Started,Connecting to website
+2025-04-29,03:58:25,Connection,Success,HTTP 200
+2025-04-29,03:58:25,Data,Success,Apartment count: 5
+2025-04-29,04:03:26,Check,Started,Connecting to website
+2025-04-29,04:03:26,Connection,Success,HTTP 200
+2025-04-29,04:03:26,Data,Success,Apartment count: 5
+2025-04-29,04:08:26,Check,Started,Connecting to website
+2025-04-29,04:08:27,Connection,Success,HTTP 200
+2025-04-29,04:08:27,Data,Success,Apartment count: 5
+2025-04-29,04:13:27,Check,Started,Connecting to website
+2025-04-29,04:13:28,Connection,Success,HTTP 200
+2025-04-29,04:13:28,Data,Success,Apartment count: 5
+2025-04-29,04:18:28,Check,Started,Connecting to website
+2025-04-29,04:18:29,Connection,Success,HTTP 200
+2025-04-29,04:18:29,Data,Success,Apartment count: 5
+2025-04-29,04:23:29,Check,Started,Connecting to website
+2025-04-29,04:23:30,Connection,Success,HTTP 200
+2025-04-29,04:23:30,Data,Success,Apartment count: 5
+2025-04-29,04:28:30,Check,Started,Connecting to website
+2025-04-29,04:28:30,Connection,Success,HTTP 200
+2025-04-29,04:28:30,Data,Success,Apartment count: 5
+2025-04-29,04:33:31,Check,Started,Connecting to website
+2025-04-29,04:33:31,Connection,Success,HTTP 200
+2025-04-29,04:33:31,Data,Success,Apartment count: 5
+2025-04-29,04:38:31,Check,Started,Connecting to website
+2025-04-29,04:38:32,Connection,Success,HTTP 200
+2025-04-29,04:38:32,Data,Success,Apartment count: 5
+2025-04-29,04:43:32,Check,Started,Connecting to website
+2025-04-29,04:43:33,Connection,Success,HTTP 200
+2025-04-29,04:43:33,Data,Success,Apartment count: 5
+2025-04-29,04:48:33,Check,Started,Connecting to website
+2025-04-29,04:48:34,Connection,Success,HTTP 200
+2025-04-29,04:48:34,Data,Success,Apartment count: 5
+2025-04-29,04:53:34,Check,Started,Connecting to website
+2025-04-29,04:53:34,Connection,Success,HTTP 200
+2025-04-29,04:53:34,Data,Success,Apartment count: 5
+2025-04-29,04:58:35,Check,Started,Connecting to website
+2025-04-29,04:58:35,Connection,Success,HTTP 200
+2025-04-29,04:58:35,Data,Success,Apartment count: 5
+2025-04-29,05:03:35,Check,Started,Connecting to website
+2025-04-29,05:03:36,Connection,Success,HTTP 200
+2025-04-29,05:03:36,Data,Success,Apartment count: 5
+2025-04-29,05:08:36,Check,Started,Connecting to website
+2025-04-29,05:08:37,Connection,Success,HTTP 200
+2025-04-29,05:08:37,Data,Success,Apartment count: 5
+2025-04-29,05:13:37,Check,Started,Connecting to website
+2025-04-29,05:13:38,Connection,Success,HTTP 200
+2025-04-29,05:13:38,Data,Success,Apartment count: 5
+2025-04-29,05:18:38,Check,Started,Connecting to website
+2025-04-29,05:18:38,Connection,Success,HTTP 200
+2025-04-29,05:18:39,Data,Success,Apartment count: 5
+2025-04-29,05:23:39,Check,Started,Connecting to website
+2025-04-29,05:23:39,Connection,Success,HTTP 200
+2025-04-29,05:23:39,Data,Success,Apartment count: 5
+2025-04-29,05:28:40,Check,Started,Connecting to website
+2025-04-29,05:28:40,Connection,Success,HTTP 200
+2025-04-29,05:28:40,Data,Success,Apartment count: 5
+2025-04-29,05:33:40,Check,Started,Connecting to website
+2025-04-29,05:33:41,Connection,Success,HTTP 200
+2025-04-29,05:33:41,Data,Success,Apartment count: 5
+2025-04-29,05:38:41,Check,Started,Connecting to website
+2025-04-29,05:38:42,Connection,Success,HTTP 200
+2025-04-29,05:38:42,Data,Success,Apartment count: 5
+2025-04-29,05:43:42,Check,Started,Connecting to website
+2025-04-29,05:43:43,Connection,Success,HTTP 200
+2025-04-29,05:43:43,Data,Success,Apartment count: 5
+2025-04-29,05:48:43,Check,Started,Connecting to website
+2025-04-29,05:48:44,Connection,Success,HTTP 200
+2025-04-29,05:48:44,Data,Success,Apartment count: 5
+2025-04-29,05:53:44,Check,Started,Connecting to website
+2025-04-29,05:53:44,Connection,Success,HTTP 200
+2025-04-29,05:53:44,Data,Success,Apartment count: 5
+2025-04-29,05:58:45,Check,Started,Connecting to website
+2025-04-29,05:58:45,Connection,Success,HTTP 200
+2025-04-29,05:58:45,Data,Success,Apartment count: 5
+2025-04-29,06:03:45,Check,Started,Connecting to website
+2025-04-29,06:03:46,Connection,Success,HTTP 200
+2025-04-29,06:03:46,Data,Success,Apartment count: 5
+2025-04-29,06:08:46,Check,Started,Connecting to website
+2025-04-29,06:08:47,Connection,Success,HTTP 200
+2025-04-29,06:08:47,Data,Success,Apartment count: 5
+2025-04-29,06:13:47,Check,Started,Connecting to website
+2025-04-29,06:13:48,Connection,Success,HTTP 200
+2025-04-29,06:13:48,Data,Success,Apartment count: 5
+2025-04-29,06:18:48,Check,Started,Connecting to website
+2025-04-29,06:18:48,Connection,Success,HTTP 200
+2025-04-29,06:18:48,Data,Success,Apartment count: 5
+2025-04-29,06:23:49,Check,Started,Connecting to website
+2025-04-29,06:23:49,Connection,Success,HTTP 200
+2025-04-29,06:23:49,Data,Success,Apartment count: 5
+2025-04-29,06:28:50,Check,Started,Connecting to website
+2025-04-29,06:28:50,Connection,Success,HTTP 200
+2025-04-29,06:28:50,Data,Success,Apartment count: 5
+2025-04-29,06:33:50,Check,Started,Connecting to website
+2025-04-29,06:33:51,Connection,Success,HTTP 200
+2025-04-29,06:33:51,Data,Success,Apartment count: 5
+2025-04-29,06:38:51,Check,Started,Connecting to website
+2025-04-29,06:38:54,Connection,Success,HTTP 200
+2025-04-29,06:38:54,Data,Success,Apartment count: 5
+2025-04-29,06:43:54,Check,Started,Connecting to website
+2025-04-29,06:43:55,Connection,Success,HTTP 200
+2025-04-29,06:43:55,Data,Success,Apartment count: 5
+2025-04-29,06:48:55,Check,Started,Connecting to website
+2025-04-29,06:48:55,Connection,Success,HTTP 200
+2025-04-29,06:48:55,Data,Success,Apartment count: 5
+2025-04-29,06:53:56,Check,Started,Connecting to website
+2025-04-29,06:53:56,Connection,Success,HTTP 200
+2025-04-29,06:53:56,Data,Success,Apartment count: 5
+2025-04-29,06:58:56,Check,Started,Connecting to website
+2025-04-29,06:58:57,Connection,Success,HTTP 200
+2025-04-29,06:58:57,Data,Success,Apartment count: 5
+2025-04-29,07:03:57,Check,Started,Connecting to website
+2025-04-29,07:03:58,Connection,Success,HTTP 200
+2025-04-29,07:03:58,Data,Success,Apartment count: 5
+2025-04-29,07:08:58,Check,Started,Connecting to website
+2025-04-29,07:08:59,Connection,Success,HTTP 200
+2025-04-29,07:08:59,Data,Success,Apartment count: 5
+2025-04-29,07:13:59,Check,Started,Connecting to website
+2025-04-29,07:14:00,Connection,Success,HTTP 200
+2025-04-29,07:14:00,Data,Success,Apartment count: 5
+2025-04-29,07:19:00,Check,Started,Connecting to website
+2025-04-29,07:19:00,Connection,Success,HTTP 200
+2025-04-29,07:19:00,Data,Success,Apartment count: 5
+2025-04-29,07:24:01,Check,Started,Connecting to website
+2025-04-29,07:24:01,Connection,Success,HTTP 200
+2025-04-29,07:24:01,Data,Success,Apartment count: 5
+2025-04-29,07:29:01,Check,Started,Connecting to website
+2025-04-29,07:29:02,Connection,Success,HTTP 200
+2025-04-29,07:29:02,Data,Success,Apartment count: 5
+2025-04-29,07:34:02,Check,Started,Connecting to website
+2025-04-29,07:34:03,Connection,Success,HTTP 200
+2025-04-29,07:34:03,Data,Success,Apartment count: 5
+2025-04-29,07:39:03,Check,Started,Connecting to website
+2025-04-29,07:39:04,Connection,Success,HTTP 200
+2025-04-29,07:39:04,Data,Success,Apartment count: 5
+2025-04-29,07:44:04,Check,Started,Connecting to website
+2025-04-29,07:44:04,Connection,Success,HTTP 200
+2025-04-29,07:44:05,Data,Success,Apartment count: 5
+2025-04-29,07:49:05,Check,Started,Connecting to website
+2025-04-29,07:49:05,Connection,Success,HTTP 200
+2025-04-29,07:49:05,Data,Success,Apartment count: 5
+2025-04-29,07:54:05,Check,Started,Connecting to website
+2025-04-29,07:54:06,Connection,Success,HTTP 200
+2025-04-29,07:54:06,Data,Success,Apartment count: 5
+2025-04-29,07:59:06,Check,Started,Connecting to website
+2025-04-29,07:59:07,Connection,Success,HTTP 200
+2025-04-29,07:59:07,Data,Success,Apartment count: 5
+2025-04-29,08:04:07,Check,Started,Connecting to website
+2025-04-29,08:04:08,Connection,Success,HTTP 200
+2025-04-29,08:04:08,Data,Success,Apartment count: 5
+2025-04-29,08:09:08,Check,Started,Connecting to website
+2025-04-29,08:09:09,Connection,Success,HTTP 200
+2025-04-29,08:09:09,Data,Success,Apartment count: 5
+2025-04-29,08:14:09,Check,Started,Connecting to website
+2025-04-29,08:14:09,Connection,Success,HTTP 200
+2025-04-29,08:14:09,Data,Success,Apartment count: 5
+2025-04-29,08:19:10,Check,Started,Connecting to website
+2025-04-29,08:19:10,Connection,Success,HTTP 200
+2025-04-29,08:19:10,Data,Success,Apartment count: 5
+2025-04-29,08:24:10,Check,Started,Connecting to website
+2025-04-29,08:24:11,Connection,Success,HTTP 200
+2025-04-29,08:24:11,Data,Success,Apartment count: 5
+2025-04-29,08:29:11,Check,Started,Connecting to website
+2025-04-29,08:29:12,Connection,Success,HTTP 200
+2025-04-29,08:29:12,Data,Success,Apartment count: 5
+2025-04-29,08:34:12,Check,Started,Connecting to website
+2025-04-29,08:34:13,Connection,Success,HTTP 200
+2025-04-29,08:34:13,Data,Success,Apartment count: 5
+2025-04-29,08:39:13,Check,Started,Connecting to website
+2025-04-29,08:39:14,Connection,Success,HTTP 200
+2025-04-29,08:39:14,Data,Success,Apartment count: 5
+2025-04-29,08:44:14,Check,Started,Connecting to website
+2025-04-29,08:44:14,Connection,Success,HTTP 200
+2025-04-29,08:44:14,Data,Success,Apartment count: 5
+2025-04-29,08:49:15,Check,Started,Connecting to website
+2025-04-29,08:49:15,Connection,Success,HTTP 200
+2025-04-29,08:49:15,Data,Success,Apartment count: 5
+2025-04-29,08:54:15,Check,Started,Connecting to website
+2025-04-29,08:54:16,Connection,Success,HTTP 200
+2025-04-29,08:54:16,Data,Success,Apartment count: 5
+2025-04-29,08:59:16,Check,Started,Connecting to website
+2025-04-29,08:59:17,Connection,Success,HTTP 200
+2025-04-29,08:59:17,Data,Success,Apartment count: 5
+2025-04-29,09:04:17,Check,Started,Connecting to website
+2025-04-29,09:04:18,Connection,Success,HTTP 200
+2025-04-29,09:04:18,Data,Success,Apartment count: 5
+2025-04-29,09:09:18,Check,Started,Connecting to website
+2025-04-29,09:09:19,Connection,Success,HTTP 200
+2025-04-29,09:09:19,Data,Success,Apartment count: 5
+2025-04-29,09:14:19,Check,Started,Connecting to website
+2025-04-29,09:14:20,Connection,Success,HTTP 200
+2025-04-29,09:14:20,Data,Success,Apartment count: 5
+2025-04-29,09:19:20,Check,Started,Connecting to website
+2025-04-29,09:19:20,Connection,Success,HTTP 200
+2025-04-29,09:19:20,Data,Success,Apartment count: 6
+2025-04-29,09:24:22,Check,Started,Connecting to website
+2025-04-29,09:24:23,Connection,Success,HTTP 200
+2025-04-29,09:24:23,Data,Success,Apartment count: 6
+2025-04-29,09:29:23,Check,Started,Connecting to website
+2025-04-29,09:29:23,Connection,Success,HTTP 200
+2025-04-29,09:29:23,Data,Success,Apartment count: 6
+2025-04-29,09:34:24,Check,Started,Connecting to website
+2025-04-29,09:34:24,Connection,Success,HTTP 200
+2025-04-29,09:34:24,Data,Success,Apartment count: 6
+2025-04-29,09:39:24,Check,Started,Connecting to website
+2025-04-29,09:39:25,Connection,Success,HTTP 200
+2025-04-29,09:39:25,Data,Success,Apartment count: 6
+2025-04-29,09:44:25,Check,Started,Connecting to website
+2025-04-29,09:44:26,Connection,Success,HTTP 200
+2025-04-29,09:44:26,Data,Success,Apartment count: 6
+2025-04-29,09:49:26,Check,Started,Connecting to website
+2025-04-29,09:49:27,Connection,Success,HTTP 200
+2025-04-29,09:49:27,Data,Success,Apartment count: 6
+2025-04-29,09:54:27,Check,Started,Connecting to website
+2025-04-29,09:54:27,Connection,Success,HTTP 200
+2025-04-29,09:54:27,Data,Success,Apartment count: 6
+2025-04-29,09:59:28,Check,Started,Connecting to website
+2025-04-29,09:59:28,Connection,Success,HTTP 200
+2025-04-29,09:59:28,Data,Success,Apartment count: 6
+2025-04-29,10:04:29,Check,Started,Connecting to website
+2025-04-29,10:04:29,Connection,Success,HTTP 200
+2025-04-29,10:04:29,Data,Success,Apartment count: 6
+2025-04-29,10:09:29,Check,Started,Connecting to website
+2025-04-29,10:09:30,Connection,Success,HTTP 200
+2025-04-29,10:09:30,Data,Success,Apartment count: 6
+2025-04-29,10:14:30,Check,Started,Connecting to website
+2025-04-29,10:14:31,Connection,Success,HTTP 200
+2025-04-29,10:14:31,Data,Success,Apartment count: 6
+2025-04-29,10:19:31,Check,Started,Connecting to website
+2025-04-29,10:19:32,Connection,Success,HTTP 200
+2025-04-29,10:19:32,Data,Success,Apartment count: 6
+2025-04-29,10:24:32,Check,Started,Connecting to website
+2025-04-29,10:24:32,Connection,Success,HTTP 200
+2025-04-29,10:24:32,Data,Success,Apartment count: 6
+2025-04-29,10:29:33,Check,Started,Connecting to website
+2025-04-29,10:29:33,Connection,Success,HTTP 200
+2025-04-29,10:29:33,Data,Success,Apartment count: 6
+2025-04-29,10:34:34,Check,Started,Connecting to website
+2025-04-29,10:34:34,Connection,Success,HTTP 200
+2025-04-29,10:34:34,Data,Success,Apartment count: 6
+2025-04-29,10:39:34,Check,Started,Connecting to website
+2025-04-29,10:39:35,Connection,Success,HTTP 200
+2025-04-29,10:39:35,Data,Success,Apartment count: 6
+2025-04-29,10:44:35,Check,Started,Connecting to website
+2025-04-29,10:44:36,Connection,Success,HTTP 200
+2025-04-29,10:44:36,Data,Success,Apartment count: 6
+2025-04-29,10:49:36,Check,Started,Connecting to website
+2025-04-29,10:49:37,Connection,Success,HTTP 200
+2025-04-29,10:49:37,Data,Success,Apartment count: 6
+2025-04-29,10:54:37,Check,Started,Connecting to website
+2025-04-29,10:54:37,Connection,Success,HTTP 200
+2025-04-29,10:54:37,Data,Success,Apartment count: 6
+2025-04-29,10:59:38,Check,Started,Connecting to website
+2025-04-29,10:59:38,Connection,Success,HTTP 200
+2025-04-29,10:59:38,Data,Success,Apartment count: 6
+2025-04-29,11:04:38,Check,Started,Connecting to website
+2025-04-29,11:04:39,Connection,Success,HTTP 200
+2025-04-29,11:04:39,Data,Success,Apartment count: 6
+2025-04-29,11:09:39,Check,Started,Connecting to website
+2025-04-29,11:09:40,Connection,Success,HTTP 200
+2025-04-29,11:09:40,Data,Success,Apartment count: 6
+2025-04-29,11:14:40,Check,Started,Connecting to website
+2025-04-29,11:14:41,Connection,Success,HTTP 200
+2025-04-29,11:14:41,Data,Success,Apartment count: 6
+2025-04-29,11:19:41,Check,Started,Connecting to website
+2025-04-29,11:19:42,Connection,Success,HTTP 200
+2025-04-29,11:19:42,Data,Success,Apartment count: 6
+2025-04-29,11:24:42,Check,Started,Connecting to website
+2025-04-29,11:24:42,Connection,Success,HTTP 200
+2025-04-29,11:24:42,Data,Success,Apartment count: 6
+2025-04-29,11:29:43,Check,Started,Connecting to website
+2025-04-29,11:29:43,Connection,Success,HTTP 200
+2025-04-29,11:29:43,Data,Success,Apartment count: 6
+2025-04-29,11:34:44,Check,Started,Connecting to website
+2025-04-29,11:34:44,Connection,Success,HTTP 200
+2025-04-29,11:34:44,Data,Success,Apartment count: 6
+2025-04-29,11:39:44,Check,Started,Connecting to website
+2025-04-29,11:39:45,Connection,Success,HTTP 200
+2025-04-29,11:39:45,Data,Success,Apartment count: 6
+2025-04-29,11:44:45,Check,Started,Connecting to website
+2025-04-29,11:44:46,Connection,Success,HTTP 200
+2025-04-29,11:44:46,Data,Success,Apartment count: 6
+2025-04-29,11:49:46,Check,Started,Connecting to website
+2025-04-29,11:49:47,Connection,Success,HTTP 200
+2025-04-29,11:49:47,Data,Success,Apartment count: 6
+2025-04-29,11:54:47,Check,Started,Connecting to website
+2025-04-29,11:54:47,Connection,Success,HTTP 200
+2025-04-29,11:54:48,Data,Success,Apartment count: 6
+2025-04-29,11:59:48,Check,Started,Connecting to website
+2025-04-29,11:59:48,Connection,Success,HTTP 200
+2025-04-29,11:59:48,Data,Success,Apartment count: 6
+2025-04-29,12:04:48,Check,Started,Connecting to website
+2025-04-29,12:04:49,Connection,Success,HTTP 200
+2025-04-29,12:04:49,Data,Success,Apartment count: 6
+2025-04-29,12:09:49,Check,Started,Connecting to website
+2025-04-29,12:09:50,Connection,Success,HTTP 200
+2025-04-29,12:09:50,Data,Success,Apartment count: 6
+2025-04-29,12:14:50,Check,Started,Connecting to website
+2025-04-29,12:14:51,Connection,Success,HTTP 200
+2025-04-29,12:14:51,Data,Success,Apartment count: 6
+2025-04-29,12:19:51,Check,Started,Connecting to website
+2025-04-29,12:19:51,Connection,Success,HTTP 200
+2025-04-29,12:19:52,Data,Success,Apartment count: 6
+2025-04-29,12:24:52,Check,Started,Connecting to website
+2025-04-29,12:24:52,Connection,Success,HTTP 200
+2025-04-29,12:24:52,Data,Success,Apartment count: 6
+2025-04-29,12:29:53,Check,Started,Connecting to website
+2025-04-29,12:29:53,Connection,Success,HTTP 200
+2025-04-29,12:29:53,Data,Success,Apartment count: 6
+2025-04-29,12:34:53,Check,Started,Connecting to website
+2025-04-29,12:34:54,Connection,Success,HTTP 200
+2025-04-29,12:34:54,Data,Success,Apartment count: 6
+2025-04-29,12:39:54,Check,Started,Connecting to website
+2025-04-29,12:39:55,Connection,Success,HTTP 200
+2025-04-29,12:39:55,Data,Success,Apartment count: 6
+2025-04-29,12:44:55,Check,Started,Connecting to website
+2025-04-29,12:44:56,Connection,Success,HTTP 200
+2025-04-29,12:44:56,Data,Success,Apartment count: 6
+2025-04-29,12:49:56,Check,Started,Connecting to website
+2025-04-29,12:49:57,Connection,Success,HTTP 200
+2025-04-29,12:49:57,Data,Success,Apartment count: 6
+2025-04-29,12:54:57,Check,Started,Connecting to website
+2025-04-29,12:54:58,Connection,Success,HTTP 200
+2025-04-29,12:54:58,Data,Success,Apartment count: 6
+2025-04-29,12:59:58,Check,Started,Connecting to website
+2025-04-29,12:59:59,Connection,Success,HTTP 200
+2025-04-29,12:59:59,Data,Success,Apartment count: 6
+2025-04-29,13:04:59,Check,Started,Connecting to website
+2025-04-29,13:04:59,Connection,Success,HTTP 200
+2025-04-29,13:04:59,Data,Success,Apartment count: 6
+2025-04-29,13:10:00,Check,Started,Connecting to website
+2025-04-29,13:10:00,Connection,Success,HTTP 200
+2025-04-29,13:10:00,Data,Success,Apartment count: 6
+2025-04-29,13:15:01,Check,Started,Connecting to website
+2025-04-29,13:15:01,Connection,Success,HTTP 200
+2025-04-29,13:15:01,Data,Success,Apartment count: 6
+2025-04-29,13:20:02,Check,Started,Connecting to website
+2025-04-29,13:20:13,Connection,Success,HTTP 200
+2025-04-29,13:20:13,Data,Success,Apartment count: 6
+2025-04-29,13:25:13,Check,Started,Connecting to website
+2025-04-29,13:25:14,Connection,Success,HTTP 200
+2025-04-29,13:25:14,Data,Success,Apartment count: 6
+2025-04-29,13:30:14,Check,Started,Connecting to website
+2025-04-29,13:30:15,Connection,Success,HTTP 200
+2025-04-29,13:30:15,Data,Success,Apartment count: 6
+2025-04-29,13:35:16,Check,Started,Connecting to website
+2025-04-29,13:35:16,Connection,Success,HTTP 200
+2025-04-29,13:35:16,Data,Success,Apartment count: 6
+2025-04-29,13:40:17,Check,Started,Connecting to website
+2025-04-29,13:40:18,Connection,Success,HTTP 200
+2025-04-29,13:40:18,Data,Success,Apartment count: 6
+2025-04-29,13:45:18,Check,Started,Connecting to website
+2025-04-29,13:45:19,Connection,Success,HTTP 200
+2025-04-29,13:45:19,Data,Success,Apartment count: 6
+2025-04-29,13:50:19,Check,Started,Connecting to website
+2025-04-29,13:50:20,Connection,Success,HTTP 200
+2025-04-29,13:50:20,Data,Success,Apartment count: 6
+2025-04-29,13:55:20,Check,Started,Connecting to website
+2025-04-29,13:55:20,Connection,Success,HTTP 200
+2025-04-29,13:55:21,Data,Success,Apartment count: 6
+2025-04-29,14:00:21,Check,Started,Connecting to website
+2025-04-29,14:00:22,Connection,Success,HTTP 200
+2025-04-29,14:00:22,Data,Success,Apartment count: 6
+2025-04-29,14:05:22,Check,Started,Connecting to website
+2025-04-29,14:05:23,Connection,Success,HTTP 200
+2025-04-29,14:05:23,Data,Success,Apartment count: 6
+2025-04-29,14:10:23,Check,Started,Connecting to website
+2025-04-29,14:10:24,Connection,Success,HTTP 200
+2025-04-29,14:10:24,Data,Success,Apartment count: 6
+2025-04-29,14:15:24,Check,Started,Connecting to website
+2025-04-29,14:15:25,Connection,Success,HTTP 200
+2025-04-29,14:15:26,Data,Success,Apartment count: 6
+2025-04-29,14:20:26,Check,Started,Connecting to website
+2025-04-29,14:20:27,Connection,Success,HTTP 200
+2025-04-29,14:20:27,Data,Success,Apartment count: 7
+2025-04-29,14:25:28,Check,Started,Connecting to website
+2025-04-29,14:25:29,Connection,Success,HTTP 200
+2025-04-29,14:25:29,Data,Success,Apartment count: 7
+2025-04-29,14:30:29,Check,Started,Connecting to website
+2025-04-29,14:30:30,Connection,Success,HTTP 200
+2025-04-29,14:30:30,Data,Success,Apartment count: 7
+2025-04-29,14:35:30,Check,Started,Connecting to website
+2025-04-29,14:35:31,Connection,Success,HTTP 200
+2025-04-29,14:35:31,Data,Success,Apartment count: 8
+2025-04-29,14:40:32,Check,Started,Connecting to website
+2025-04-29,14:40:33,Connection,Success,HTTP 200
+2025-04-29,14:40:33,Data,Success,Apartment count: 8
+2025-04-29,14:45:33,Check,Started,Connecting to website
+2025-04-29,14:45:34,Connection,Success,HTTP 200
+2025-04-29,14:45:34,Data,Success,Apartment count: 8
+2025-04-29,14:50:34,Check,Started,Connecting to website
+2025-04-29,14:50:35,Connection,Success,HTTP 200
+2025-04-29,14:50:35,Data,Success,Apartment count: 9
+2025-04-29,14:55:39,Check,Started,Connecting to website
+2025-04-29,14:55:39,Connection,Success,HTTP 200
+2025-04-29,14:55:39,Data,Success,Apartment count: 9
+2025-04-29,15:00:40,Check,Started,Connecting to website
+2025-04-29,15:00:40,Connection,Success,HTTP 200
+2025-04-29,15:00:40,Data,Success,Apartment count: 9
+2025-04-29,15:05:41,Check,Started,Connecting to website
+2025-04-29,15:05:41,Connection,Success,HTTP 200
+2025-04-29,15:05:41,Data,Success,Apartment count: 9
+2025-04-29,15:10:42,Check,Started,Connecting to website
+2025-04-29,15:10:42,Connection,Success,HTTP 200
+2025-04-29,15:10:42,Data,Success,Apartment count: 9
+2025-04-29,15:15:43,Check,Started,Connecting to website
+2025-04-29,15:15:44,Connection,Success,HTTP 200
+2025-04-29,15:15:44,Data,Success,Apartment count: 9
+2025-04-29,15:20:44,Check,Started,Connecting to website
+2025-04-29,15:20:45,Connection,Success,HTTP 200
+2025-04-29,15:20:45,Data,Success,Apartment count: 9
+2025-04-29,15:25:45,Check,Started,Connecting to website
+2025-04-29,15:25:46,Connection,Success,HTTP 200
+2025-04-29,15:25:46,Data,Success,Apartment count: 9
+2025-04-29,15:30:46,Check,Started,Connecting to website
+2025-04-29,15:30:47,Connection,Success,HTTP 200
+2025-04-29,15:30:47,Data,Success,Apartment count: 8
+2025-04-29,15:35:49,Check,Started,Connecting to website
+2025-04-29,15:35:50,Connection,Success,HTTP 200
+2025-04-29,15:35:50,Data,Success,Apartment count: 8
+2025-04-29,15:40:50,Check,Started,Connecting to website
+2025-04-29,15:40:51,Connection,Success,HTTP 200
+2025-04-29,15:40:51,Data,Success,Apartment count: 8
+2025-04-29,15:45:51,Check,Started,Connecting to website
+2025-04-29,15:45:53,Connection,Success,HTTP 200
+2025-04-29,15:45:53,Data,Success,Apartment count: 9
+2025-04-29,15:50:55,Check,Started,Connecting to website
+2025-04-29,15:50:55,Connection,Success,HTTP 200
+2025-04-29,15:50:55,Data,Success,Apartment count: 10
+2025-04-29,15:55:58,Check,Started,Connecting to website
+2025-04-29,15:55:59,Connection,Success,HTTP 200
+2025-04-29,15:55:59,Data,Success,Apartment count: 10
+2025-04-29,16:00:59,Check,Started,Connecting to website
+2025-04-29,16:01:00,Connection,Success,HTTP 200
+2025-04-29,16:01:00,Data,Success,Apartment count: 10
+2025-04-29,16:06:00,Check,Started,Connecting to website
+2025-04-29,16:06:01,Connection,Success,HTTP 200
+2025-04-29,16:06:01,Data,Success,Apartment count: 10
+2025-04-29,16:11:01,Check,Started,Connecting to website
+2025-04-29,16:11:02,Connection,Success,HTTP 200
+2025-04-29,16:11:02,Data,Success,Apartment count: 10
+2025-04-29,16:16:02,Check,Started,Connecting to website
+2025-04-29,16:16:03,Connection,Success,HTTP 200
+2025-04-29,16:16:03,Data,Success,Apartment count: 10
+2025-04-29,16:21:03,Check,Started,Connecting to website
+2025-04-29,16:21:04,Connection,Success,HTTP 200
+2025-04-29,16:21:04,Data,Success,Apartment count: 10
+2025-04-29,16:26:04,Check,Started,Connecting to website
+2025-04-29,16:26:04,Connection,Success,HTTP 200
+2025-04-29,16:26:04,Data,Success,Apartment count: 10
+2025-04-29,16:31:05,Check,Started,Connecting to website
+2025-04-29,16:31:05,Connection,Success,HTTP 200
+2025-04-29,16:31:05,Data,Success,Apartment count: 10
+2025-04-29,16:36:06,Check,Started,Connecting to website
+2025-04-29,16:36:06,Connection,Success,HTTP 200
+2025-04-29,16:36:06,Data,Success,Apartment count: 10
+2025-04-29,16:41:07,Check,Started,Connecting to website
+2025-04-29,16:41:07,Connection,Success,HTTP 200
+2025-04-29,16:41:07,Data,Success,Apartment count: 10
+2025-04-29,16:46:08,Check,Started,Connecting to website
+2025-04-29,16:46:08,Connection,Success,HTTP 200
+2025-04-29,16:46:09,Data,Success,Apartment count: 10
+2025-04-29,16:51:09,Check,Started,Connecting to website
+2025-04-29,16:51:09,Connection,Success,HTTP 200
+2025-04-29,16:51:09,Data,Success,Apartment count: 10
+2025-04-29,16:56:10,Check,Started,Connecting to website
+2025-04-29,16:56:10,Connection,Success,HTTP 200
+2025-04-29,16:56:10,Data,Success,Apartment count: 10
+2025-04-29,17:01:10,Check,Started,Connecting to website
+2025-04-29,17:01:13,Connection,Success,HTTP 200
+2025-04-29,17:01:13,Data,Success,Apartment count: 10
+2025-04-29,17:06:13,Check,Started,Connecting to website
+2025-04-29,17:06:14,Connection,Success,HTTP 200
+2025-04-29,17:06:14,Data,Success,Apartment count: 10
+2025-04-29,17:11:14,Check,Started,Connecting to website
+2025-04-29,17:11:15,Connection,Success,HTTP 200
+2025-04-29,17:11:15,Data,Success,Apartment count: 10
+2025-04-29,17:16:15,Check,Started,Connecting to website
+2025-04-29,17:16:16,Connection,Success,HTTP 200
+2025-04-29,17:16:16,Data,Success,Apartment count: 10
+2025-04-29,17:21:16,Check,Started,Connecting to website
+2025-04-29,17:21:17,Connection,Success,HTTP 200
+2025-04-29,17:21:17,Data,Success,Apartment count: 10
+2025-04-29,17:26:17,Check,Started,Connecting to website
+2025-04-29,17:26:17,Connection,Success,HTTP 200
+2025-04-29,17:26:17,Data,Success,Apartment count: 10
+2025-04-29,17:31:18,Check,Started,Connecting to website
+2025-04-29,17:31:18,Connection,Success,HTTP 200
+2025-04-29,17:31:18,Data,Success,Apartment count: 10
+2025-04-29,17:36:19,Check,Started,Connecting to website
+2025-04-29,17:36:19,Connection,Success,HTTP 200
+2025-04-29,17:36:19,Data,Success,Apartment count: 10
+2025-04-29,17:41:20,Check,Started,Connecting to website
+2025-04-29,17:41:20,Connection,Success,HTTP 200
+2025-04-29,17:41:20,Data,Success,Apartment count: 10
+2025-04-29,17:46:20,Check,Started,Connecting to website
+2025-04-29,17:46:22,Connection,Success,HTTP 200
+2025-04-29,17:46:22,Data,Success,Apartment count: 10
+2025-04-29,17:51:22,Check,Started,Connecting to website
+2025-04-29,17:51:23,Connection,Success,HTTP 200
+2025-04-29,17:51:23,Data,Success,Apartment count: 10
+2025-04-29,17:54:34,System,Stopped,By user
+2025-06-12,21:44:13,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-06-12,21:44:13,Check,Started,Connecting to website
+2025-06-12,21:44:14,Connection,Success,HTTP 200
+2025-06-12,21:44:14,Data,Error,Apartment count not found
+2025-06-12,21:44:49,System,Stopped,By user
+2025-06-12,21:45:25,System,Started,Version 3.0 - Check interval: 5 minutes
+2025-06-12,21:45:25,Check,Started,Connecting to website
+2025-06-12,21:45:26,Connection,Success,HTTP 200
+2025-06-12,21:45:26,Data,Success,Ev sayısı bulundu (span): 4
+2025-06-12,21:45:30,E-posta,Success,Bildirim gönderildi
+2025-06-12,21:46:38,System,Stopped,By user
+2025-06-12,21:51:37,System,Started,"Version 4.0 - Check interval: 5 minutes - Filter: 1, 1,5, 2, 2,5, 3 rooms, 300-1000€"
+2025-06-12,21:51:37,Check,Started,1 oda için web sitesine bağlanılıyor
+2025-06-12,21:51:38,Connection,Success,1 oda - HTTP 200
+2025-06-12,21:51:38,Data,Success,1 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:51:38,Check,Started,"1,5 oda için web sitesine bağlanılıyor"
+2025-06-12,21:51:38,Connection,Success,"1,5 oda - HTTP 200"
+2025-06-12,21:51:38,Data,Success,"1,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,21:51:38,Check,Started,2 oda için web sitesine bağlanılıyor
+2025-06-12,21:51:38,Connection,Success,2 oda - HTTP 200
+2025-06-12,21:51:38,Data,Success,2 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:51:38,Check,Started,"2,5 oda için web sitesine bağlanılıyor"
+2025-06-12,21:51:38,Connection,Success,"2,5 oda - HTTP 200"
+2025-06-12,21:51:38,Data,Success,"2,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,21:51:38,Check,Started,3 oda için web sitesine bağlanılıyor
+2025-06-12,21:51:38,Connection,Success,3 oda - HTTP 200
+2025-06-12,21:51:38,Data,Success,3 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:51:40,E-posta,Success,Bildirim gönderildi
+2025-06-12,21:54:08,System,Started,"Version 4.1 - Check interval: 5 minutes - Filter: 1, 1,5, 2, 2,5, 3 rooms, 300-1000€"
+2025-06-12,21:54:08,Check,Started,Connecting to website
+2025-06-12,21:54:08,Connection,Success,HTTP 200
+2025-06-12,21:54:08,Data,Success,Ev sayısı bulundu (span): 4
+2025-06-12,21:54:10,E-posta,Success,Bildirim gönderildi
+2025-06-12,21:54:57,System,Started,"Version 4.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€"
+2025-06-12,21:54:57,Check,Started,Connecting to website
+2025-06-12,21:54:58,Connection,Success,HTTP 200
+2025-06-12,21:54:58,Data,Success,Ev sayısı bulundu (span): 4
+2025-06-12,21:54:59,E-posta,Success,Bildirim gönderildi
+2025-06-12,21:56:40,Check,Started,1 oda için web sitesine bağlanılıyor
+2025-06-12,21:56:41,Connection,Success,1 oda - HTTP 200
+2025-06-12,21:56:41,Data,Success,1 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:56:41,Check,Started,"1,5 oda için web sitesine bağlanılıyor"
+2025-06-12,21:56:41,Connection,Success,"1,5 oda - HTTP 200"
+2025-06-12,21:56:41,Data,Success,"1,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,21:56:41,Check,Started,2 oda için web sitesine bağlanılıyor
+2025-06-12,21:56:41,Connection,Success,2 oda - HTTP 200
+2025-06-12,21:56:41,Data,Success,2 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:56:41,Check,Started,"2,5 oda için web sitesine bağlanılıyor"
+2025-06-12,21:56:41,Connection,Success,"2,5 oda - HTTP 200"
+2025-06-12,21:56:41,Data,Success,"2,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,21:56:41,Check,Started,3 oda için web sitesine bağlanılıyor
+2025-06-12,21:56:42,Connection,Success,3 oda - HTTP 200
+2025-06-12,21:56:42,Data,Success,3 oda - Ev sayısı bulundu (span): 4
+2025-06-12,21:56:42,Check,Success,Değişiklik yok - Toplam ev sayısı: 20
+2025-06-12,21:59:10,Check,Started,Connecting to website
+2025-06-12,21:59:11,Connection,Success,HTTP 200
+2025-06-12,21:59:11,Data,Success,Ev sayısı bulundu (span): 4
+2025-06-12,21:59:11,Check,Success,Değişiklik yok - Toplam ev sayısı: 4
+2025-06-12,21:59:16,System,Started,"Version 5.0 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€ - Selenium active"
+2025-06-12,21:59:16,Check,Started,Selenium ile web sitesine bağlanılıyor
+2025-06-12,21:59:24,System,Error,Selenium hatası: [WinError 193] %1 geçerli bir Win32 uygulaması değil
+2025-06-12,21:59:26,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:00:00,Check,Started,Connecting to website
+2025-06-12,22:00:00,Connection,Success,HTTP 200
+2025-06-12,22:00:00,Data,Success,Ev sayısı bulundu (span): 4
+2025-06-12,22:00:00,Check,Success,Değişiklik yok - Toplam ev sayısı: 4
+2025-06-12,22:01:42,Check,Started,1 oda için web sitesine bağlanılıyor
+2025-06-12,22:01:42,Connection,Success,1 oda - HTTP 200
+2025-06-12,22:01:42,Data,Success,1 oda - Ev sayısı bulundu (span): 4
+2025-06-12,22:01:42,Check,Started,"1,5 oda için web sitesine bağlanılıyor"
+2025-06-12,22:01:42,Connection,Success,"1,5 oda - HTTP 200"
+2025-06-12,22:01:42,Data,Success,"1,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,22:01:42,Check,Started,2 oda için web sitesine bağlanılıyor
+2025-06-12,22:01:43,Connection,Success,2 oda - HTTP 200
+2025-06-12,22:01:43,Data,Success,2 oda - Ev sayısı bulundu (span): 4
+2025-06-12,22:01:43,Check,Started,"2,5 oda için web sitesine bağlanılıyor"
+2025-06-12,22:01:43,Connection,Success,"2,5 oda - HTTP 200"
+2025-06-12,22:01:43,Data,Success,"2,5 oda - Ev sayısı bulundu (span): 4"
+2025-06-12,22:01:43,Check,Started,3 oda için web sitesine bağlanılıyor
+2025-06-12,22:01:43,Connection,Success,3 oda - HTTP 200
+2025-06-12,22:01:43,Data,Success,3 oda - Ev sayısı bulundu (span): 4
+2025-06-12,22:01:43,Check,Success,Değişiklik yok - Toplam ev sayısı: 20
+2025-06-12,22:02:58,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€ - BeautifulSoup active"
+2025-06-12,22:02:58,Check,Started,Connecting to website
+2025-06-12,22:02:59,Connection,Success,HTTP 200
+2025-06-12,22:02:59,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:03:00,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:03:31,System,Stopped,By user
+2025-06-12,22:04:26,Check,Started,Selenium ile web sitesine bağlanılıyor
+2025-06-12,22:04:27,System,Error,Selenium hatası: [WinError 193] %1 geçerli bir Win32 uygulaması değil
+2025-06-12,22:04:27,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:04:49,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€ - BeautifulSoup active"
+2025-06-12,22:04:49,Check,Started,Connecting to website
+2025-06-12,22:04:50,Connection,Success,HTTP 200
+2025-06-12,22:04:50,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:04:51,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:06:27,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€ - BeautifulSoup active"
+2025-06-12,22:06:27,Check,Started,Connecting to website
+2025-06-12,22:06:27,Connection,Success,HTTP 200
+2025-06-12,22:06:27,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:06:29,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:08:42,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms, 300-1000€ - BeautifulSoup active"
+2025-06-12,22:08:42,Check,Started,Connecting to website
+2025-06-12,22:08:42,Connection,Success,HTTP 200
+2025-06-12,22:08:42,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:08:44,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:09:27,Check,Started,Selenium ile web sitesine bağlanılıyor
+2025-06-12,22:09:29,System,Error,Selenium hatası: [WinError 193] %1 geçerli bir Win32 uygulaması değil
+2025-06-12,22:09:29,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:09:52,Check,Started,Connecting to website
+2025-06-12,22:09:52,Connection,Success,HTTP 200
+2025-06-12,22:09:52,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:09:52,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:11:29,Check,Started,Connecting to website
+2025-06-12,22:11:29,Connection,Success,HTTP 200
+2025-06-12,22:11:29,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:11:29,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:13:44,Check,Started,Connecting to website
+2025-06-12,22:13:44,Connection,Success,HTTP 200
+2025-06-12,22:13:44,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:13:44,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:14:29,Check,Started,Selenium ile web sitesine bağlanılıyor
+2025-06-12,22:14:30,System,Error,Selenium hatası: [WinError 193] %1 geçerli bir Win32 uygulaması değil
+2025-06-12,22:14:30,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:14:47,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:14:47,Check,Started,Connecting to website
+2025-06-12,22:14:48,Connection,Success,HTTP 200
+2025-06-12,22:14:48,Data,Success,Filtreye uyan ev sayısı: 9
+2025-06-12,22:14:50,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:14:52,Check,Started,Connecting to website
+2025-06-12,22:14:53,Connection,Success,HTTP 200
+2025-06-12,22:14:53,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:14:53,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:16:30,Check,Started,Connecting to website
+2025-06-12,22:16:30,Connection,Success,HTTP 200
+2025-06-12,22:16:30,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:16:30,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:17:14,System,Stopped,By user
+2025-06-12,22:19:46,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:19:46,Check,Started,Connecting to website
+2025-06-12,22:19:47,Connection,Success,HTTP 200
+2025-06-12,22:19:47,Data,Success,Filtreye uyan ev sayısı: 2
+2025-06-12,22:19:49,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:21:29,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:21:29,Check,Started,Connecting to website
+2025-06-12,22:21:30,Connection,Success,HTTP 200
+2025-06-12,22:21:30,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:21:30,Check,Started,Connecting to website
+2025-06-12,22:21:31,Connection,Success,HTTP 200
+2025-06-12,22:21:31,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:21:31,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:21:31,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:24:28,System,Stopped,By user
+2025-06-12,22:24:36,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:24:36,Check,Started,Connecting to website
+2025-06-12,22:24:37,Connection,Success,HTTP 200
+2025-06-12,22:24:38,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:24:57,System,Stopped,By user
+2025-06-12,22:26:12,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:26:12,Check,Started,Connecting to website
+2025-06-12,22:26:13,Connection,Success,HTTP 200
+2025-06-12,22:26:15,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:26:31,Check,Started,Connecting to website
+2025-06-12,22:26:31,Connection,Success,HTTP 200
+2025-06-12,22:26:31,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:26:31,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:27:37,System,Stopped,By user
+2025-06-12,22:27:39,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:27:39,Check,Started,Connecting to website
+2025-06-12,22:27:39,Connection,Success,HTTP 200
+2025-06-12,22:27:41,E-posta,Success,Bildirim gönderildi
+2025-06-12,22:30:23,System,Stopped,By user
+2025-06-12,22:30:57,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:30:57,Check,Started,Connecting to website
+2025-06-12,22:30:57,Connection,Success,HTTP 200
+2025-06-12,22:30:57,E-posta,Started,Apartment count: 1
+2025-06-12,22:30:57,E-posta,Error,please run connect() first
+2025-06-12,22:31:23,System,Stopped,By user
+2025-06-12,22:31:30,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:31:30,Check,Started,Connecting to website
+2025-06-12,22:31:30,Connection,Success,HTTP 200
+2025-06-12,22:31:30,E-posta,Started,Apartment count: 1
+2025-06-12,22:31:32,Check,Started,Connecting to website
+2025-06-12,22:31:32,Connection,Success,HTTP 200
+2025-06-12,22:31:32,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:31:32,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:31:34,E-posta,Error,[WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+2025-06-12,22:31:43,System,Stopped,By user
+2025-06-12,22:32:01,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:32:01,Check,Started,Connecting to website
+2025-06-12,22:32:01,Connection,Success,HTTP 200
+2025-06-12,22:32:02,E-posta,Started,Apartment count: 1
+2025-06-12,22:32:02,E-posta,Error,'NoneType' object has no attribute 'encode'
+2025-06-12,22:32:50,System,Stopped,By user
+2025-06-12,22:36:32,Check,Started,Connecting to website
+2025-06-12,22:36:33,Connection,Success,HTTP 200
+2025-06-12,22:36:33,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:36:33,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:41:33,Check,Started,Connecting to website
+2025-06-12,22:41:33,Connection,Success,HTTP 200
+2025-06-12,22:41:33,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:41:33,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:42:38,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:42:38,Check,Started,Connecting to website
+2025-06-12,22:42:39,Connection,Success,HTTP 200
+2025-06-12,22:42:39,E-posta,Started,Apartment count: 1
+2025-06-12,22:42:40,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:46:32,System,Stopped,By user
+2025-06-12,22:46:33,Check,Started,Connecting to website
+2025-06-12,22:46:34,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:46:34,Check,Started,Connecting to website
+2025-06-12,22:46:34,Connection,Success,HTTP 200
+2025-06-12,22:46:34,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:46:34,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:46:34,Connection,Success,HTTP 200
+2025-06-12,22:46:34,E-posta,Started,Apartment count: 1
+2025-06-12,22:46:36,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:47:38,System,Stopped,By user
+2025-06-12,22:47:39,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:47:39,Check,Started,Connecting to website
+2025-06-12,22:47:40,Connection,Success,HTTP 200
+2025-06-12,22:47:40,E-posta,Started,Apartment count: 1
+2025-06-12,22:47:42,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:48:29,System,Stopped,By user
+2025-06-12,22:48:32,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:48:32,Check,Started,Connecting to website
+2025-06-12,22:48:33,Connection,Success,HTTP 200
+2025-06-12,22:49:52,System,Stopped,By user
+2025-06-12,22:50:08,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:50:08,Check,Started,Connecting to website
+2025-06-12,22:50:09,Connection,Success,HTTP 200
+2025-06-12,22:50:09,E-posta,Started,Apartment count: 1
+2025-06-12,22:50:10,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:51:34,Check,Started,Connecting to website
+2025-06-12,22:51:35,Connection,Success,HTTP 200
+2025-06-12,22:51:35,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:51:35,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:51:45,System,Stopped,By user
+2025-06-12,22:51:47,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:51:47,Check,Started,Connecting to website
+2025-06-12,22:51:48,Connection,Success,HTTP 200
+2025-06-12,22:53:42,System,Stopped,By user
+2025-06-12,22:53:43,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:53:43,Check,Started,Connecting to website
+2025-06-12,22:53:43,Connection,Success,HTTP 200
+2025-06-12,22:54:26,System,Stopped,By user
+2025-06-12,22:54:28,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:54:28,Check,Started,Connecting to website
+2025-06-12,22:54:29,Connection,Success,HTTP 200
+2025-06-12,22:55:22,System,Stopped,By user
+2025-06-12,22:55:24,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:55:24,Check,Started,Connecting to website
+2025-06-12,22:55:25,Connection,Success,HTTP 200
+2025-06-12,22:55:25,E-posta,Started,Apartment count: 1
+2025-06-12,22:55:27,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:56:33,System,Stopped,By user
+2025-06-12,22:56:33,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:56:33,Check,Started,Connecting to website
+2025-06-12,22:56:34,Connection,Success,HTTP 200
+2025-06-12,22:56:34,E-posta,Started,Apartment count: 1
+2025-06-12,22:56:35,Check,Started,Connecting to website
+2025-06-12,22:56:35,Connection,Success,HTTP 200
+2025-06-12,22:56:35,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,22:56:35,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,22:56:36,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,22:57:18,System,Stopped,By user
+2025-06-12,22:57:21,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,22:57:21,Check,Started,Connecting to website
+2025-06-12,22:57:22,Connection,Success,HTTP 200
+2025-06-12,22:57:22,E-posta,Started,Apartment count: 1
+2025-06-12,22:57:23,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,23:01:32,System,Stopped,By user
+2025-06-12,23:01:33,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:01:33,Check,Started,Connecting to website
+2025-06-12,23:01:34,Connection,Success,HTTP 200
+2025-06-12,23:01:34,E-posta,Started,Apartment count: 1
+2025-06-12,23:01:35,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,23:01:36,Check,Started,Connecting to website
+2025-06-12,23:01:36,Connection,Success,HTTP 200
+2025-06-12,23:01:36,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:01:36,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:02:28,System,Stopped,By user
+2025-06-12,23:02:29,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:02:29,Check,Started,Connecting to website
+2025-06-12,23:02:29,Connection,Success,HTTP 200
+2025-06-12,23:02:29,E-posta,Started,Apartment count: 1
+2025-06-12,23:02:31,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,23:05:15,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:05:15,Check,Started,Connecting to website
+2025-06-12,23:05:23,Connection,Success,HTTP 200
+2025-06-12,23:05:23,System,Error,'NoneType' object has no attribute 'find'
+2025-06-12,23:06:36,Check,Started,Connecting to website
+2025-06-12,23:06:37,System,Stopped,By user
+2025-06-12,23:06:37,Connection,Success,HTTP 200
+2025-06-12,23:06:37,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:06:37,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:06:40,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:06:40,Check,Started,Connecting to website
+2025-06-12,23:06:41,Connection,Success,HTTP 200
+2025-06-12,23:07:40,System,Stopped,By user
+2025-06-12,23:07:41,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:07:41,Check,Started,Connecting to website
+2025-06-12,23:07:42,Connection,Success,HTTP 200
+2025-06-12,23:07:42,E-posta,Started,Apartment count: 1
+2025-06-12,23:07:43,E-posta,Success,Alıcı: taylanarslanfb@gmail.com
+2025-06-12,23:11:37,Check,Started,Connecting to website
+2025-06-12,23:11:38,Connection,Success,HTTP 200
+2025-06-12,23:11:38,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:11:38,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:12:43,Check,Started,Connecting to website
+2025-06-12,23:12:44,Connection,Success,HTTP 200
+2025-06-12,23:14:03,System,Stopped,By user
+2025-06-12,23:16:38,Check,Started,Connecting to website
+2025-06-12,23:16:38,Connection,Success,HTTP 200
+2025-06-12,23:16:38,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:16:38,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:17:25,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:17:25,Check,Started,Connecting to website
+2025-06-12,23:17:26,Connection,Success,HTTP 200
+2025-06-12,23:17:26,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 1"
+2025-06-12,23:17:28,E-posta,Success,1 alıcıya gönderildi
+2025-06-12,23:18:07,System,Stopped,By user
+2025-06-12,23:18:09,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:18:09,Check,Started,Connecting to website
+2025-06-12,23:18:09,Connection,Success,HTTP 200
+2025-06-12,23:18:09,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 1"
+2025-06-12,23:18:11,E-posta,Success,1 alıcıya gönderildi
+2025-06-12,23:19:03,System,Stopped,By user
+2025-06-12,23:19:04,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:19:04,Check,Started,Connecting to website
+2025-06-12,23:19:05,Connection,Success,HTTP 200
+2025-06-12,23:19:05,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 1"
+2025-06-12,23:19:06,E-posta,Success,taylanarslanfb@gmail.com adresine gönderildi
+2025-06-12,23:21:34,System,Stopped,By user
+2025-06-12,23:21:36,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:21:36,Check,Started,Connecting to website
+2025-06-12,23:21:37,Connection,Success,HTTP 200
+2025-06-12,23:21:37,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 2"
+2025-06-12,23:21:38,Check,Started,Connecting to website
+2025-06-12,23:21:39,Connection,Success,HTTP 200
+2025-06-12,23:21:39,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:21:39,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:21:40,E-posta,Success,taylanarslanfb@gmail.com adresine gönderildi
+2025-06-12,23:21:42,E-posta,Success,taylanarslanfb@hotmail.com adresine gönderildi
+2025-06-12,23:21:43,System,Stopped,By user
+2025-06-12,23:21:45,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:21:45,Check,Started,Connecting to website
+2025-06-12,23:21:45,Connection,Success,HTTP 200
+2025-06-12,23:21:45,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 2"
+2025-06-12,23:21:47,E-posta,Success,taylanarslanfb@gmail.com adresine gönderildi
+2025-06-12,23:21:48,E-posta,Success,taylanarslanfb@hotmail.com adresine gönderildi
+2025-06-12,23:22:50,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:22:50,Check,Started,Connecting to website
+2025-06-12,23:22:50,Connection,Success,HTTP 200
+2025-06-12,23:22:51,E-posta,Started,"Apartment count: 1, Alıcı sayısı: 2"
+2025-06-12,23:22:52,E-posta,Success,taylanarslanfb@gmail.com adresine gönderildi
+2025-06-12,23:22:53,E-posta,Success,taylanarslanfb@hotmail.com adresine gönderildi
+2025-06-12,23:23:45,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:24:06,System,Stopped,By user
+2025-06-12,23:24:07,System,Started,"Version 5.1 - Check interval: 5 minutes - Filter: 2, 2,5, 3 rooms - BeautifulSoup active"
+2025-06-12,23:26:39,Check,Started,Connecting to website
+2025-06-12,23:26:40,Connection,Success,HTTP 200
+2025-06-12,23:26:40,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:26:40,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0
+2025-06-12,23:31:40,Check,Started,Connecting to website
+2025-06-12,23:31:40,Connection,Success,HTTP 200
+2025-06-12,23:31:40,Data,Success,Filtreye uyan ev sayısı: 0
+2025-06-12,23:31:40,Check,Success,Değişiklik yok - Filtreye uyan ev sayısı: 0

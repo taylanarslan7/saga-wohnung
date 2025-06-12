@@ -1,0 +1,17 @@
+services:
+  - type: worker
+    name: saga-wohnung-monitor
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python saga_monitor.py
+    envVars:
+      - key: EMAIL_FROM
+        sync: false
+      - key: EMAIL_TO
+        sync: false
+      - key: EMAIL_PASSWORD
+        sync: false
+      - key: SMTP_SUNUCU
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: 587 
